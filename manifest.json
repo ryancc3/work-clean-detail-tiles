@@ -16,6 +16,6 @@
     15
   ],
   "url_template_after_publish": "https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png",
-  "generated": "2026-05-01 21:48:00",
-  "notes": "Zooms 10-12 are simplified labeled overview tiles; zooms 13-17 are detailed field-map tiles."
+  "generated": "2026-05-01 22:03:00",
+  "notes": "Zooms 10-12 are simplified labeled overview tiles with edge-safe label placement; zooms 13-17 are detailed field-map tiles."
 }
