@@ -1,0 +1,1266 @@
+{
+  "dpi": 300,
+  "anchor_method": "largest detected block-only alpha component centroid",
+  "count": 74,
+  "anchors": [
+    {
+      "file": "252-006_plotMap.pdf",
+      "label": "252-006",
+      "lon": -114.50772369938308,
+      "lat": 49.15833497269349,
+      "component_area_px": 75013,
+      "component_bbox_px": [
+        849,
+        474,
+        1366,
+        2262
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "3561_blockMap.pdf",
+      "label": "3561",
+      "lon": -115.57260150497012,
+      "lat": 49.38614363740593,
+      "component_area_px": 129476,
+      "component_bbox_px": [
+        1507,
+        735,
+        332,
+        556
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3562_blockMap.pdf",
+      "label": "3562",
+      "lon": -115.5745286555681,
+      "lat": 49.393913110086025,
+      "component_area_px": 33782,
+      "component_bbox_px": [
+        1732,
+        1190,
+        156,
+        348
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3569_blockMap.pdf",
+      "label": "3569",
+      "lon": -115.23020754280836,
+      "lat": 49.40034419151188,
+      "component_area_px": 169449,
+      "component_bbox_px": [
+        1627,
+        1097,
+        574,
+        693
+      ],
+      "rendered_size_px": [
+        3627,
+        3074
+      ]
+    },
+    {
+      "file": "3570_blockMap.pdf",
+      "label": "3570",
+      "lon": -115.237519216831,
+      "lat": 49.401624877760135,
+      "component_area_px": 330158,
+      "component_bbox_px": [
+        1895,
+        868,
+        825,
+        973
+      ],
+      "rendered_size_px": [
+        3627,
+        3074
+      ]
+    },
+    {
+      "file": "3571_blockMap.pdf",
+      "label": "3571",
+      "lon": -115.24179216307779,
+      "lat": 49.4172263839043,
+      "component_area_px": 202845,
+      "component_bbox_px": [
+        1715,
+        575,
+        493,
+        739
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3572_blockMap.pdf",
+      "label": "3572",
+      "lon": -115.27635311198111,
+      "lat": 49.43187638861324,
+      "component_area_px": 608184,
+      "component_bbox_px": [
+        1562,
+        632,
+        966,
+        1186
+      ],
+      "rendered_size_px": [
+        3627,
+        3074
+      ]
+    },
+    {
+      "file": "3573_blockMap.pdf",
+      "label": "3573",
+      "lon": -115.28659165746632,
+      "lat": 49.43899295070068,
+      "component_area_px": 47443,
+      "component_bbox_px": [
+        1978,
+        946,
+        280,
+        295
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3574_blockMap.pdf",
+      "label": "3574",
+      "lon": -115.22212698440498,
+      "lat": 49.40274372771138,
+      "component_area_px": 322489,
+      "component_bbox_px": [
+        1405,
+        745,
+        818,
+        667
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3575_blockMap.pdf",
+      "label": "3575",
+      "lon": -115.21192420517067,
+      "lat": 49.404583157573796,
+      "component_area_px": 615739,
+      "component_bbox_px": [
+        1838,
+        526,
+        1082,
+        1188
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3592_blockMap.pdf",
+      "label": "3592",
+      "lon": -115.52588378390125,
+      "lat": 49.303218738444556,
+      "component_area_px": 1104185,
+      "component_bbox_px": [
+        2021,
+        231,
+        1274,
+        1700
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3593_blockMap.pdf",
+      "label": "3593",
+      "lon": -115.53689163942053,
+      "lat": 49.30914360506326,
+      "component_area_px": 144042,
+      "component_bbox_px": [
+        1531,
+        649,
+        567,
+        533
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3594_blockMap.pdf",
+      "label": "3594",
+      "lon": -115.53825079533517,
+      "lat": 49.29787791820142,
+      "component_area_px": 413363,
+      "component_bbox_px": [
+        2077,
+        1013,
+        876,
+        954
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3595_blockMap.pdf",
+      "label": "3595",
+      "lon": -115.53830958683109,
+      "lat": 49.304032086524316,
+      "component_area_px": 234943,
+      "component_bbox_px": [
+        1695,
+        721,
+        882,
+        743
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3598_blockMap.pdf",
+      "label": "3598",
+      "lon": -115.55367482762006,
+      "lat": 49.30061421394441,
+      "component_area_px": 102554,
+      "component_bbox_px": [
+        1822,
+        951,
+        412,
+        494
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3600_blockMap.pdf",
+      "label": "3600",
+      "lon": -115.50448336956433,
+      "lat": 49.28419090589201,
+      "component_area_px": 329291,
+      "component_bbox_px": [
+        1833,
+        843,
+        632,
+        743
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "3601_blockMap.pdf",
+      "label": "3601",
+      "lon": -115.55672608878652,
+      "lat": 49.30859918931439,
+      "component_area_px": 455191,
+      "component_bbox_px": [
+        2049,
+        514,
+        831,
+        1145
+      ],
+      "rendered_size_px": [
+        3627,
+        3075
+      ]
+    },
+    {
+      "file": "627-004_plotMap.pdf",
+      "label": "627-004",
+      "lon": -114.6735141234851,
+      "lat": 49.52960971070963,
+      "component_area_px": 84310,
+      "component_bbox_px": [
+        266,
+        824,
+        2527,
+        1563
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "ALX0032_plotMap.pdf",
+      "label": "ALX0032",
+      "lon": -114.6935182464621,
+      "lat": 49.736392756799084,
+      "component_area_px": 28158,
+      "component_bbox_px": [
+        1160,
+        1058,
+        739,
+        1094
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "ALX0033_plotMap.pdf",
+      "label": "ALX0033",
+      "lon": -114.68399249183744,
+      "lat": 49.73517218901884,
+      "component_area_px": 19101,
+      "component_bbox_px": [
+        1159,
+        1396,
+        747,
+        418
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "ALX0034_plotMap.pdf",
+      "label": "ALX0034",
+      "lon": -114.6977950510152,
+      "lat": 49.73879448028098,
+      "component_area_px": 6800,
+      "component_bbox_px": [
+        1433,
+        1459,
+        198,
+        290
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "ALX0035_plotMap.pdf",
+      "label": "ALX0035",
+      "lon": -114.69774699735727,
+      "lat": 49.73620204070311,
+      "component_area_px": 5735,
+      "component_bbox_px": [
+        1456,
+        1460,
+        152,
+        290
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "ALX0039_plotMap.pdf",
+      "label": "ALX0039",
+      "lon": -114.72859144761141,
+      "lat": 49.74450719470518,
+      "component_area_px": 14982,
+      "component_bbox_px": [
+        1265,
+        1355,
+        534,
+        500
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "CAV0031_plotMap.pdf",
+      "label": "CAV0031",
+      "lon": -115.38054577526292,
+      "lat": 49.14708901154815,
+      "component_area_px": 17327,
+      "component_bbox_px": [
+        1283,
+        1260,
+        500,
+        689
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "CAV0037_plotMap.pdf",
+      "label": "CAV0037",
+      "lon": -115.51408312700653,
+      "lat": 49.06561105075257,
+      "component_area_px": 31272,
+      "component_bbox_px": [
+        1093,
+        1230,
+        884,
+        750
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "CAV0042_plotMap.pdf",
+      "label": "CAV0042",
+      "lon": -115.47753498738356,
+      "lat": 49.10082853615436,
+      "component_area_px": 59924,
+      "component_bbox_px": [
+        927,
+        724,
+        1210,
+        1764
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "CAV0043_plotMap.pdf",
+      "label": "CAV0043",
+      "lon": -115.44231277120568,
+      "lat": 49.2052180020701,
+      "component_area_px": 106030,
+      "component_bbox_px": [
+        546,
+        733,
+        1972,
+        1744
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "CAV0045_plotMap.pdf",
+      "label": "CAV0045",
+      "lon": -115.44275864663861,
+      "lat": 49.18922515555646,
+      "component_area_px": 49760,
+      "component_bbox_px": [
+        774,
+        902,
+        1516,
+        1406
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "CAV0060_plotMap.pdf",
+      "label": "CAV0060",
+      "lon": -115.53923558689102,
+      "lat": 49.054187675472,
+      "component_area_px": 30663,
+      "component_bbox_px": [
+        877,
+        1295,
+        1084,
+        707
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "CAV0061_plotMap.pdf",
+      "label": "CAV0061",
+      "lon": -115.53731514257736,
+      "lat": 49.06121284254032,
+      "component_area_px": 27485,
+      "component_bbox_px": [
+        834,
+        1233,
+        873,
+        745
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "CAV0070_plotMap.pdf",
+      "label": "CAV0070",
+      "lon": -115.5046551049667,
+      "lat": 49.102746647109235,
+      "component_area_px": 40454,
+      "component_bbox_px": [
+        817,
+        1121,
+        1436,
+        968
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "CAV0085_plotMap.pdf",
+      "label": "CAV0085",
+      "lon": -115.45332050295589,
+      "lat": 49.155025960811514,
+      "component_area_px": 8442,
+      "component_bbox_px": [
+        1428,
+        1423,
+        205,
+        365
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "EER0026_plotMap.pdf",
+      "label": "EER0026",
+      "lon": -114.95407988233522,
+      "lat": 50.1840746725141,
+      "component_area_px": 52589,
+      "component_bbox_px": [
+        1086,
+        701,
+        892,
+        1813
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "EER0127_plotMap.pdf",
+      "label": "EER0127",
+      "lon": -114.9563068103234,
+      "lat": 50.17183193814742,
+      "component_area_px": 36936,
+      "component_bbox_px": [
+        949,
+        969,
+        1172,
+        1268
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "EER0130_plotMap.pdf",
+      "label": "EER0130",
+      "lon": -114.96342529881106,
+      "lat": 50.1969294974815,
+      "component_area_px": 37972,
+      "component_bbox_px": [
+        1111,
+        874,
+        842,
+        1462
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "EER0131_plotMap.pdf",
+      "label": "EER0131",
+      "lon": -114.96587678805233,
+      "lat": 50.20753410224814,
+      "component_area_px": 16186,
+      "component_bbox_px": [
+        1205,
+        1399,
+        654,
+        412
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "EER0132_plotMap.pdf",
+      "label": "EER0132",
+      "lon": -114.95879654111998,
+      "lat": 50.22011964302431,
+      "component_area_px": 10859,
+      "component_bbox_px": [
+        1392,
+        1399,
+        280,
+        412
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "EFH0031_plotMap.pdf",
+      "label": "EFH0031",
+      "lon": -114.42347352628775,
+      "lat": 49.12374712167294,
+      "component_area_px": 22578,
+      "component_bbox_px": [
+        1187,
+        1349,
+        690,
+        512
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "EFH0041_plotMap.pdf",
+      "label": "EFH0041",
+      "lon": -114.45050657240716,
+      "lat": 49.115700016929246,
+      "component_area_px": 12599,
+      "component_bbox_px": [
+        1317,
+        1407,
+        429,
+        395
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LER0098_plotMap.pdf",
+      "label": "LER0098",
+      "lon": -114.92259485262275,
+      "lat": 49.719529113578226,
+      "component_area_px": 44492,
+      "component_bbox_px": [
+        1120,
+        852,
+        832,
+        1506
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LER0131_plotMap.pdf",
+      "label": "LER0131",
+      "lon": -114.92877819164642,
+      "lat": 49.73106915330252,
+      "component_area_px": 31258,
+      "component_bbox_px": [
+        1081,
+        986,
+        905,
+        1236
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0009_plotMap.pdf",
+      "label": "LIN0009",
+      "lon": -115.38043897893985,
+      "lat": 49.198356670903465,
+      "component_area_px": 29481,
+      "component_bbox_px": [
+        895,
+        1141,
+        1275,
+        972
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0014_plotMap.pdf",
+      "label": "LIN0014",
+      "lon": -115.39367624740268,
+      "lat": 49.28731948552169,
+      "component_area_px": 26477,
+      "component_bbox_px": [
+        1167,
+        1050,
+        730,
+        1110
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0065_plotMap.pdf",
+      "label": "LIN0065",
+      "lon": -115.28728478151488,
+      "lat": 49.06300362742878,
+      "component_area_px": 50987,
+      "component_bbox_px": [
+        1009,
+        871,
+        1043,
+        1468
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0066_plotMap.pdf",
+      "label": "LIN0066",
+      "lon": -115.30833618704584,
+      "lat": 49.065157794419676,
+      "component_area_px": 22269,
+      "component_bbox_px": [
+        1177,
+        1117,
+        591,
+        976
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0069_plotMap.pdf",
+      "label": "LIN0069",
+      "lon": -115.30121042938535,
+      "lat": 49.064643798960894,
+      "component_area_px": 18543,
+      "component_bbox_px": [
+        1257,
+        1267,
+        548,
+        675
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0075_plotMap.pdf",
+      "label": "LIN0075",
+      "lon": -115.3052189040429,
+      "lat": 49.071127007557486,
+      "component_area_px": 24203,
+      "component_bbox_px": [
+        1165,
+        1318,
+        734,
+        574
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0078_plotMap.pdf",
+      "label": "LIN0078",
+      "lon": -115.38302502759437,
+      "lat": 49.240411417358196,
+      "component_area_px": 33607,
+      "component_bbox_px": [
+        1021,
+        1174,
+        1022,
+        862
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0084_plotMap.pdf",
+      "label": "LIN0084",
+      "lon": -115.29628196468197,
+      "lat": 49.06312209670467,
+      "component_area_px": 8000,
+      "component_bbox_px": [
+        1399,
+        1433,
+        266,
+        344
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0089_plotMap.pdf",
+      "label": "LIN0089",
+      "lon": -115.37836159544177,
+      "lat": 49.23628168711545,
+      "component_area_px": 4495,
+      "component_bbox_px": [
+        1380,
+        1446,
+        160,
+        318
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0090_plotMap.pdf",
+      "label": "LIN0090",
+      "lon": -115.28829383386277,
+      "lat": 49.1707654086013,
+      "component_area_px": 32376,
+      "component_bbox_px": [
+        927,
+        1224,
+        1206,
+        762
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0103_plotMap.pdf",
+      "label": "LIN0103",
+      "lon": -115.28721732488269,
+      "lat": 49.02729635528129,
+      "component_area_px": 19305,
+      "component_bbox_px": [
+        1521,
+        1252,
+        397,
+        662
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0105_plotMap.pdf",
+      "label": "LIN0105",
+      "lon": -115.31076714284343,
+      "lat": 49.0464117545363,
+      "component_area_px": 48146,
+      "component_bbox_px": [
+        573,
+        1132,
+        1917,
+        946
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0108_plotMap.pdf",
+      "label": "LIN0108",
+      "lon": -115.3004056532653,
+      "lat": 49.151431845027155,
+      "component_area_px": 15185,
+      "component_bbox_px": [
+        1318,
+        1350,
+        430,
+        510
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "LIN0109_plotMap.pdf",
+      "label": "LIN0109",
+      "lon": -115.30758869162293,
+      "lat": 49.16614823673057,
+      "component_area_px": 8579,
+      "component_bbox_px": [
+        1355,
+        1489,
+        354,
+        232
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "TEE0004_plotMap.pdf",
+      "label": "TEE0004",
+      "lon": -115.66438323195366,
+      "lat": 49.22836354019783,
+      "component_area_px": 35077,
+      "component_bbox_px": [
+        815,
+        524,
+        1433,
+        1576
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "TEE0010_plotMap.pdf",
+      "label": "TEE0010",
+      "lon": -115.61822798040157,
+      "lat": 49.220571880824,
+      "component_area_px": 17103,
+      "component_bbox_px": [
+        1312,
+        1263,
+        440,
+        682
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "TEE0012_plotMap.pdf",
+      "label": "TEE0012",
+      "lon": -115.59624029946814,
+      "lat": 49.22073911552941,
+      "component_area_px": 58960,
+      "component_bbox_px": [
+        836,
+        992,
+        1394,
+        1226
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "TEE0020_plotMap.pdf",
+      "label": "TEE0020",
+      "lon": -115.73592517093235,
+      "lat": 49.24086656095235,
+      "component_area_px": 38100,
+      "component_bbox_px": [
+        924,
+        1268,
+        1216,
+        676
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "TEE0025_plotMap.pdf",
+      "label": "TEE0025",
+      "lon": -115.57596095118431,
+      "lat": 49.22429028802211,
+      "component_area_px": 51159,
+      "component_bbox_px": [
+        452,
+        1068,
+        2160,
+        1079
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "UER0013_plotMap.pdf",
+      "label": "UER0013",
+      "lon": -114.91242399396931,
+      "lat": 50.36056514506906,
+      "component_area_px": 23437,
+      "component_bbox_px": [
+        1177,
+        1202,
+        710,
+        806
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "UER0014_plotMap.pdf",
+      "label": "UER0014",
+      "lon": -114.89782854594681,
+      "lat": 50.36312953249084,
+      "component_area_px": 68896,
+      "component_bbox_px": [
+        834,
+        605,
+        1397,
+        2001
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "UER0033_plotMap.pdf",
+      "label": "UER0033",
+      "lon": -115.03889150238405,
+      "lat": 50.53694954361192,
+      "component_area_px": 38647,
+      "component_bbox_px": [
+        1070,
+        1111,
+        923,
+        990
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "UER0058_plotMap.pdf",
+      "label": "UER0058",
+      "lon": -114.90862598323663,
+      "lat": 50.38118174408536,
+      "component_area_px": 31614,
+      "component_bbox_px": [
+        1209,
+        1108,
+        646,
+        994
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "WER0025_plotMap.pdf",
+      "label": "WER0025",
+      "lon": -114.9453636873692,
+      "lat": 49.90751726090444,
+      "component_area_px": 9572,
+      "component_bbox_px": [
+        1321,
+        1483,
+        422,
+        244
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "WER0060_plotMap.pdf",
+      "label": "WER0060",
+      "lon": -115.01824703667232,
+      "lat": 50.181976758683724,
+      "component_area_px": 25906,
+      "component_bbox_px": [
+        1042,
+        1280,
+        980,
+        651
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "WER0061_plotMap.pdf",
+      "label": "WER0061",
+      "lon": -115.01679577785181,
+      "lat": 50.18523897876225,
+      "component_area_px": 11405,
+      "component_bbox_px": [
+        1334,
+        1374,
+        397,
+        462
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "WER0062_plotMap.pdf",
+      "label": "WER0062",
+      "lon": -115.01155290554934,
+      "lat": 50.18439910722275,
+      "component_area_px": 12593,
+      "component_bbox_px": [
+        1349,
+        1386,
+        366,
+        438
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "WER0066_plotMap.pdf",
+      "label": "WER0066",
+      "lon": -114.9810701526198,
+      "lat": 50.18407821964615,
+      "component_area_px": 7110,
+      "component_bbox_px": [
+        1444,
+        1623,
+        290,
+        201
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "WFH0003_plotMap.pdf",
+      "label": "WFH0003",
+      "lon": -114.57657455105895,
+      "lat": 49.10453080317224,
+      "component_area_px": 26219,
+      "component_bbox_px": [
+        1084,
+        1208,
+        897,
+        795
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "WFH0004_plotMap.pdf",
+      "label": "WFH0004",
+      "lon": -114.58822007229412,
+      "lat": 49.10903071648654,
+      "component_area_px": 37203,
+      "component_bbox_px": [
+        815,
+        1197,
+        1434,
+        815
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "WFH0011_plotMap.pdf",
+      "label": "WFH0011",
+      "lon": -114.62959513693085,
+      "lat": 49.009657615480585,
+      "component_area_px": 83273,
+      "component_bbox_px": [
+        127,
+        721,
+        2812,
+        1768
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "WFH0032_plotMap.pdf",
+      "label": "WFH0032",
+      "lon": -114.55348245449721,
+      "lat": 49.09910109148604,
+      "component_area_px": 26596,
+      "component_bbox_px": [
+        1102,
+        1234,
+        860,
+        740
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    },
+    {
+      "file": "YAK0063_plotMap.pdf",
+      "label": "YAK0063",
+      "lon": -115.62868281940061,
+      "lat": 49.204651773435415,
+      "component_area_px": 34261,
+      "component_bbox_px": [
+        1224,
+        923,
+        616,
+        1363
+      ],
+      "rendered_size_px": [
+        3064,
+        3210
+      ]
+    }
+  ],
+  "failures": []
+}
