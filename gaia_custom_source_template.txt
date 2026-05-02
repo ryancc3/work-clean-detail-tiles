@@ -12,8 +12,9 @@ Settings:
 - Overlay: yes, if Gaia asks
 - Note: zooms 10-12 are simplified, labeled, high-DPI block overview tiles;
   zooms 13-17 are the detailed field-map tiles. Overview labels are kept
-  inside tile boundaries and anchored to detected block geometry. Edge labels
-  are skipped when they cannot fit near the block.
+  inside tile boundaries and anchored to detected block geometry. Dense/edge
+  labels use smaller text and leader arrows when they need to sit beside the
+  block.
 
 Bounds:
 - West: -115.75681
