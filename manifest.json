@@ -14,6 +14,6 @@
     49.77017,
     15
   ],
-  "url_template_after_publish": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/tiles/{z}/{x}/{y}.png",
+  "url_template_after_publish": "https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png",
   "generated": "2026-05-01 17:49:13"
 }

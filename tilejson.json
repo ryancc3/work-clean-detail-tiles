@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "scheme": "xyz",
   "tiles": [
-    "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/tiles/{z}/{x}/{y}.png"
+    "https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png"
   ],
   "minzoom": 13,
   "maxzoom": 17,

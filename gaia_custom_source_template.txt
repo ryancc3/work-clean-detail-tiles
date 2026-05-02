@@ -2,7 +2,7 @@ Gaia custom map source URL template
 
 After GitHub Pages is enabled, use this URL in Gaia:
 
-https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/tiles/{z}/{x}/{y}.png
+https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png
 
 Settings:
 - Type: TMS or custom tile URL

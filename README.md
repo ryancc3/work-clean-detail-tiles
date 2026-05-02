@@ -2,10 +2,10 @@
 
 This folder is ready to publish with GitHub Pages.
 
-The tile URL template will be:
+The tile URL template is:
 
 ```text
-https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/tiles/{z}/{x}/{y}.png
+https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png
 ```
 
 Use that URL as a custom map source in Gaia.
