@@ -1,7 +1,7 @@
 {
   "source_mbtiles": "C:\\Users\\rnr\\Documents\\New project 2\\Gaia_MBTiles\\work_clean_detail_gaia.mbtiles",
-  "tile_count": 14517,
-  "minzoom": 13,
+  "tile_count": 14623,
+  "minzoom": 10,
   "maxzoom": 17,
   "bounds": [
     -115.75681,

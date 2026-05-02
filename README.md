@@ -13,7 +13,7 @@ Use that URL as a custom map source in Gaia.
 ## What This Contains
 
 - Transparent PNG web tiles in `tiles/{z}/{x}/{y}.png`
-- Zooms 13 through 17
+- Zooms 10 through 17
 - Roads, contours, streams, block outlines/fills, boundary lines, and useful operational map labels
 - Removed slope insets, legends, yellow warning boxes, page borders, compass, contractor text, Consult Plant Wizard boxes, and block seed panels
 

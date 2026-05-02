@@ -58,7 +58,7 @@
 
     const tileUrl = new URL("./tiles/{z}/{x}/{y}.png", window.location.href).href;
     L.tileLayer(tileUrl, {
-      minZoom: 13,
+      minZoom: 10,
       maxZoom: 17,
       maxNativeZoom: 17,
       bounds,
@@ -74,7 +74,7 @@
       div.innerHTML = `
         <strong>Gaia URL template</strong><br>
         <code>${tileUrl}</code><br><br>
-        Zooms: 13-17
+        Zooms: 10-17
       `;
       return div;
     };

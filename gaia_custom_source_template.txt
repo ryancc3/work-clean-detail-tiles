@@ -6,7 +6,7 @@ https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png
 
 Settings:
 - Type: TMS or custom tile URL
-- Minimum zoom: 13
+- Minimum zoom: 10
 - Maximum zoom: 17
 - Format: PNG
 - Overlay: yes, if Gaia asks
