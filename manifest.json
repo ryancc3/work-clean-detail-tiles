@@ -1,0 +1,19 @@
+{
+  "source_mbtiles": "C:\\Users\\rnr\\Documents\\New project 2\\Gaia_MBTiles\\work_clean_detail_gaia.mbtiles",
+  "tile_count": 14517,
+  "minzoom": 13,
+  "maxzoom": 17,
+  "bounds": [
+    -115.75681,
+    48.98985,
+    -114.40327,
+    50.55049
+  ],
+  "center": [
+    -115.08004,
+    49.77017,
+    15
+  ],
+  "url_template_after_publish": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/tiles/{z}/{x}/{y}.png",
+  "generated": "2026-05-01 17:49:13"
+}

@@ -1,0 +1,23 @@
+Gaia custom map source URL template
+
+After GitHub Pages is enabled, use this URL in Gaia:
+
+https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/tiles/{z}/{x}/{y}.png
+
+Settings:
+- Type: TMS or custom tile URL
+- Minimum zoom: 13
+- Maximum zoom: 17
+- Format: PNG
+- Overlay: yes, if Gaia asks
+
+Bounds:
+- West: -115.75681
+- South: 48.98985
+- East: -114.40327
+- North: 50.55049
+
+Center:
+- Longitude: -115.08004
+- Latitude: 49.77017
+- Zoom: 15
