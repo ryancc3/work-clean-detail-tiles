@@ -16,7 +16,8 @@ Use that URL as a custom map source in Gaia.
 - Zooms 10 through 17
 - Zooms 10 through 12 use simplified, labeled, high-DPI block overview tiles
   with labels anchored to detected block geometry and kept inside tile
-  boundaries to avoid clipped names
+  boundaries to avoid clipped names. Labels are skipped at a zoom when they
+  would need to move too far from the block to fit inside the tile.
 - Zooms 13 through 17 use the detailed field-map tiles with roads, contours,
   streams, block outlines/fills, boundary lines, and useful operational map labels
 - Removed slope insets, legends, yellow warning boxes, page borders, compass, contractor text, Consult Plant Wizard boxes, and block seed panels
