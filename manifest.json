@@ -1,6 +1,7 @@
 {
   "source_mbtiles": "C:\\Users\\rnr\\Documents\\New project 2\\Gaia_MBTiles\\work_clean_detail_gaia.mbtiles",
-  "tile_count": 14623,
+  "overview_source_mbtiles": "C:\\Users\\rnr\\Documents\\New project 2\\Gaia_MBTiles\\work_blocks_only_gaia.mbtiles",
+  "tile_count": 14604,
   "minzoom": 10,
   "maxzoom": 17,
   "bounds": [
@@ -15,5 +16,6 @@
     15
   ],
   "url_template_after_publish": "https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png",
-  "generated": "2026-05-01 17:49:13"
+  "generated": "2026-05-01 21:48:00",
+  "notes": "Zooms 10-12 are simplified labeled overview tiles; zooms 13-17 are detailed field-map tiles."
 }

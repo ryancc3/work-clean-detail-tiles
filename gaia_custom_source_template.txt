@@ -10,8 +10,8 @@ Settings:
 - Maximum zoom: 17
 - Format: PNG
 - Overlay: yes, if Gaia asks
-- Note: zooms 10-12 are higher-pixel overview tiles; zooms 13-17 are the
-  detailed field-map tiles.
+- Note: zooms 10-12 are simplified, labeled, high-DPI block overview tiles;
+  zooms 13-17 are the detailed field-map tiles.
 
 Bounds:
 - West: -115.75681

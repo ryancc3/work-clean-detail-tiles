@@ -14,8 +14,9 @@ Use that URL as a custom map source in Gaia.
 
 - Transparent PNG web tiles in `tiles/{z}/{x}/{y}.png`
 - Zooms 10 through 17
-- Zooms 10 through 12 use higher-pixel overview tiles for zoomed-out viewing
-- Roads, contours, streams, block outlines/fills, boundary lines, and useful operational map labels
+- Zooms 10 through 12 use simplified, labeled, high-DPI block overview tiles
+- Zooms 13 through 17 use the detailed field-map tiles with roads, contours,
+  streams, block outlines/fills, boundary lines, and useful operational map labels
 - Removed slope insets, legends, yellow warning boxes, page borders, compass, contractor text, Consult Plant Wizard boxes, and block seed panels
 
 ## Bounds
