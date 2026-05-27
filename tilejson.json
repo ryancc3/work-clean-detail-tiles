@@ -1,8 +1,8 @@
 {
   "tilejson": "2.2.0",
-  "name": "Work Clean Detail",
-  "description": "Clean-detail GeoPDF overlay converted to transparent web PNG tiles.",
-  "version": "1.0.0",
+  "name": "Work Non-Plot Hybrid Detail",
+  "description": "Buffered overview and clean-detail GeoPDF overlay converted to transparent web PNG tiles.",
+  "version": "2.0.0",
   "scheme": "xyz",
   "tiles": [
     "https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png"

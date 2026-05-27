@@ -1,10 +1,17 @@
 {
-  "source_mbtiles": "C:\\Users\\rnr\\Documents\\New project 2\\Gaia_MBTiles\\work_clean_detail_gaia.mbtiles",
-  "overview_source_mbtiles": "C:\\Users\\rnr\\Documents\\New project 2\\Gaia_MBTiles\\work_blocks_only_gaia.mbtiles",
-  "tile_count": 14604,
+  "source_mode": "non-plot replacements by block code with GEOPDF fallback",
+  "source_pdf_count": 74,
+  "effective_map_count": 74,
+  "replacement_count": 40,
+  "fallback_count": 34,
+  "tile_count": 13725,
   "overview_label_anchor_count": 74,
   "minzoom": 10,
   "maxzoom": 17,
+  "overview_minzoom": 10,
+  "overview_maxzoom": 15,
+  "detail_minzoom": 16,
+  "detail_maxzoom": 17,
   "bounds": [
     -115.75681,
     48.98985,
@@ -17,6 +24,7 @@
     15
   ],
   "url_template_after_publish": "https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png",
-  "generated": "2026-05-02 00:23:00",
-  "notes": "Zooms 10-12 are simplified labeled overview tiles with all 74 labels drawn at every overview zoom. Labels are anchored to detected block geometry; dense and edge labels use smaller text and leader arrows. Zooms 13-17 are detailed field-map tiles."
+  "recommended_cache_busting_url": "https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=nonplot-z15",
+  "generated": "2026-05-26 19:54:04",
+  "notes": "Zooms 10-15 are buffered high-resolution overview tiles with all labels. Zooms 16-17 are detailed field-map tiles. Matching non-plot PDFs replace plot maps."
 }

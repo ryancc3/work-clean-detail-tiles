@@ -1,28 +1,15 @@
-Gaia custom map source URL template
+Gaia GPS custom map source
 
-After GitHub Pages is enabled, use this URL in Gaia:
+Name:
+Work Non-Plot Hybrid
 
-https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png
+URL:
+https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=nonplot-z15
 
-Settings:
-- Type: TMS or custom tile URL
-- Minimum zoom: 10
-- Maximum zoom: 17
-- Format: PNG
-- Overlay: yes, if Gaia asks
-- Note: zooms 10-12 are simplified, labeled, high-DPI block overview tiles;
-  zooms 13-17 are the detailed field-map tiles. Overview labels are kept
-  inside tile boundaries and anchored to detected block geometry. Dense/edge
-  labels use smaller text and leader arrows when they need to sit beside the
-  block.
+Zooms:
+10-17
 
-Bounds:
-- West: -115.75681
-- South: 48.98985
-- East: -114.40327
-- North: 50.55049
-
-Center:
-- Longitude: -115.08004
-- Latitude: 49.77017
-- Zoom: 15
+Notes:
+- z10-z15: buffered overview labels and block polygons
+- z16-z17: clean detailed field maps
+- Matching non-plot PDFs replace plot-map PDFs by block code
