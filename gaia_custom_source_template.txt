@@ -1,15 +1,17 @@
 Gaia GPS custom map source
 
 Name:
-Work Non-Plot Hybrid
+Canfor Summer
 
 URL:
-https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=nonplot-z15
+https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=canfor-summer-20260705
 
 Zooms:
 10-17
 
 Notes:
 - z10-z15: buffered overview labels and block polygons
-- z16-z17: clean detailed field maps
-- Matching non-plot PDFs replace plot-map PDFs by block code
+- z16-z17: full detail for isolated maps, cleaned detail for overlapping maps
+- Plot/source PDFs are preferred
+- Matching non-plot PDFs are only used when replacement priority is explicitly requested
+- Extra seasonal source folders are included when supplied

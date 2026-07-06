@@ -1,6 +1,6 @@
 {
   "tilejson": "2.2.0",
-  "name": "Work Non-Plot Hybrid Detail",
+  "name": "Canfor Summer Detail",
   "description": "Buffered overview and clean-detail GeoPDF overlay converted to transparent web PNG tiles.",
   "version": "2.0.0",
   "scheme": "xyz",
@@ -10,14 +10,14 @@
   "minzoom": 10,
   "maxzoom": 17,
   "bounds": [
-    -115.75681,
-    48.98985,
-    -114.40327,
-    50.55049
+    -122.5688,
+    53.5033,
+    -121.7079,
+    54.4381
   ],
   "center": [
-    -115.08004,
-    49.77017,
+    -122.13835,
+    53.9707,
     15
   ],
   "format": "png"

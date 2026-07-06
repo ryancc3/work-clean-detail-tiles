@@ -1,391 +1,321 @@
 {
-  "source_pdf_count": 74,
-  "replacement_pdf_count": 41,
-  "effective_map_count": 74,
-  "replacement_count": 40,
-  "fallback_count": 34,
-  "replacements": [
+  "source_mode": "plot/source PDFs preferred with extra source directories; non-plot folder available as explicit replacement fallback",
+  "source_priority": "plot/source PDFs",
+  "source_directories": [
     {
-      "code": "ALX0032",
-      "source_file": "ALX0032_plotMap.pdf",
-      "selected_file": "639.ALX0032.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "ALX0033",
-      "source_file": "ALX0033_plotMap.pdf",
-      "selected_file": "639.ALX0033.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "ALX0034",
-      "source_file": "ALX0034_plotMap.pdf",
-      "selected_file": "639.ALX0034.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "ALX0035",
-      "source_file": "ALX0035_plotMap.pdf",
-      "selected_file": "639.ALX0035.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "ALX0039",
-      "source_file": "ALX0039_plotMap.pdf",
-      "selected_file": "630.ALX0039.A19040._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "CAV0031",
-      "source_file": "CAV0031_plotMap.pdf",
-      "selected_file": "817.CAV0031.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "CAV0037",
-      "source_file": "CAV0037_plotMap.pdf",
-      "selected_file": "885.CAV0037.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "CAV0060",
-      "source_file": "CAV0060_plotMap.pdf",
-      "selected_file": "899.CAV0060.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "CAV0061",
-      "source_file": "CAV0061_plotMap.pdf",
-      "selected_file": "899.CAV0061.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "CAV0070",
-      "source_file": "CAV0070_plotMap.pdf",
-      "selected_file": "006.CAV0070.A94545._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "CAV0085",
-      "source_file": "CAV0085_plotMap.pdf",
-      "selected_file": "AIA.880.CAV0085.A19040._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "EER0127",
-      "source_file": "EER0127_plotMap.pdf",
-      "selected_file": "AIA.011.EER0127.A94545._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "EER0130",
-      "source_file": "EER0130_plotMap.pdf",
-      "selected_file": "AIA.009.EER0130.A94545._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "EER0131",
-      "source_file": "EER0131_plotMap.pdf",
-      "selected_file": "AIA.009.EER0131.A94545._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "EER0132",
-      "source_file": "EER0132_plotMap.pdf",
-      "selected_file": "AIA.009.EER0132.A94545._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "LER0098",
-      "source_file": "LER0098_plotMap.pdf",
-      "selected_file": "AIA.633.LER0098.A19040._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "LER0131",
-      "source_file": "LER0131_plotMap.pdf",
-      "selected_file": "AIA.633.LER0131.A19040._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "LIN0009",
-      "source_file": "LIN0009_plotMap.pdf",
-      "selected_file": "872.LIN0009.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "LIN0075",
-      "source_file": "LIN0075_plotMap.pdf",
-      "selected_file": "875.LIN0075.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "LIN0078",
-      "source_file": "LIN0078_plotMap.pdf",
-      "selected_file": "886.LIN0078.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "LIN0089",
-      "source_file": "LIN0089_plotMap.pdf",
-      "selected_file": "878.LIN0089.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "LIN0090",
-      "source_file": "LIN0090_plotMap.pdf",
-      "selected_file": "886.LIN0090.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "LIN0103",
-      "source_file": "LIN0103_plotMap.pdf",
-      "selected_file": "894.LIN0103.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "LIN0105",
-      "source_file": "LIN0105_plotMap.pdf",
-      "selected_file": "AIA.898.LIN0105.A19040._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "LIN0108",
-      "source_file": "LIN0108_plotMap.pdf",
-      "selected_file": "898.LIN0108.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "LIN0109",
-      "source_file": "LIN0109_plotMap.pdf",
-      "selected_file": "898.LIN0109.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "TEE0004",
-      "source_file": "TEE0004_plotMap.pdf",
-      "selected_file": "856.TEE0004.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "TEE0010",
-      "source_file": "TEE0010_plotMap.pdf",
-      "selected_file": "005.TEE0010.A94545._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "TEE0012",
-      "source_file": "TEE0012_plotMap.pdf",
-      "selected_file": "884.TEE0012.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "TEE0020",
-      "source_file": "TEE0020_plotMap.pdf",
-      "selected_file": "861.TEE0020.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "TEE0025",
-      "source_file": "TEE0025_plotMap.pdf",
-      "selected_file": "884.TEE0025.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "WER0025",
-      "source_file": "WER0025_plotMap.pdf",
-      "selected_file": "691.WER0025.A19040._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "WER0060",
-      "source_file": "WER0060_plotMap.pdf",
-      "selected_file": "538.WER0060.A19040._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "WER0061",
-      "source_file": "WER0061_plotMap.pdf",
-      "selected_file": "538.WER0061.A19040._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "WER0062",
-      "source_file": "WER0062_plotMap.pdf",
-      "selected_file": "538.WER0062.A19040._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "WER0066",
-      "source_file": "WER0066_plotMap.pdf",
-      "selected_file": "AIA.538.WER0066.A19040._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "WFH0003",
-      "source_file": "WFH0003_plotMap.pdf",
-      "selected_file": "AIA.012.WFH0003.A94545._25Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "WFH0004",
-      "source_file": "WFH0004_plotMap.pdf",
-      "selected_file": "012.WFH0004.A94545._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "WFH0032",
-      "source_file": "WFH0032_plotMap.pdf",
-      "selected_file": "012.WFH0032.A94545._19Mar26_Planting Prescription (11x17).pdf"
-    },
-    {
-      "code": "YAK0063",
-      "source_file": "YAK0063_plotMap.pdf",
-      "selected_file": "AIA.836.YAK0063.A19040._25Mar26_Planting Prescription (11x17).pdf"
+      "path": "Canfor Summer maps",
+      "pdf_count": 22
     }
   ],
+  "source_pdf_count": 22,
+  "replacement_pdf_count": 41,
+  "effective_map_count": 22,
+  "replacement_count": 0,
+  "fallback_count": 22,
+  "replacements": [],
   "fallbacks": [
     {
-      "code": "252-006",
-      "source_file": "252-006_plotMap.pdf",
-      "selected_file": "252-006_plotMap.pdf"
+      "code": "FLU038",
+      "source_file": "10R.FLU038_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "10R.FLU038_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf"
     },
     {
-      "code": "3561",
-      "source_file": "3561_blockMap.pdf",
-      "selected_file": "3561_blockMap.pdf"
+      "code": "EAG055",
+      "source_file": "10W.EAG055.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "10W.EAG055.TFL30._09Jun26_Planting Prescription (11x17).pdf"
     },
     {
-      "code": "3562",
-      "source_file": "3562_blockMap.pdf",
-      "selected_file": "3562_blockMap.pdf"
+      "code": "EAG055A",
+      "source_file": "10W.EAG055A.TFL30._08Jun26_Planting Prescription (11x17).pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "10W.EAG055A.TFL30._08Jun26_Planting Prescription (11x17).pdf"
     },
     {
-      "code": "3569",
-      "source_file": "3569_blockMap.pdf",
-      "selected_file": "3569_blockMap.pdf"
+      "code": "EAG057",
+      "source_file": "10W.EAG057.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "10W.EAG057.TFL30._09Jun26_Planting Prescription (11x17).pdf"
     },
     {
-      "code": "3570",
-      "source_file": "3570_blockMap.pdf",
-      "selected_file": "3570_blockMap.pdf"
+      "code": "EAG063",
+      "source_file": "10W.EAG063.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "10W.EAG063.TFL30._09Jun26_Planting Prescription (11x17).pdf"
     },
     {
-      "code": "3571",
-      "source_file": "3571_blockMap.pdf",
-      "selected_file": "3571_blockMap.pdf"
+      "code": "SEE068",
+      "source_file": "12Q.SEE068_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "12Q.SEE068_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf"
     },
     {
-      "code": "3572",
-      "source_file": "3572_blockMap.pdf",
-      "selected_file": "3572_blockMap.pdf"
+      "code": "EAG056",
+      "source_file": "19B.EAG056.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "19B.EAG056.TFL30._09Jun26_Planting Prescription (11x17).pdf"
     },
     {
-      "code": "3573",
-      "source_file": "3573_blockMap.pdf",
-      "selected_file": "3573_blockMap.pdf"
+      "code": "EAG060",
+      "source_file": "19B.EAG060.TFL30._08Jun26_Planting Prescription (11x17).pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "19B.EAG060.TFL30._08Jun26_Planting Prescription (11x17).pdf"
     },
     {
-      "code": "3574",
-      "source_file": "3574_blockMap.pdf",
-      "selected_file": "3574_blockMap.pdf"
+      "code": "EAG061",
+      "source_file": "19B.EAG061.TFL30._08Jun26_Planting Prescription (11x17).pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "19B.EAG061.TFL30._08Jun26_Planting Prescription (11x17).pdf"
     },
     {
-      "code": "3575",
-      "source_file": "3575_blockMap.pdf",
-      "selected_file": "3575_blockMap.pdf"
+      "code": "EAG062",
+      "source_file": "19B.EAG062.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "19B.EAG062.TFL30._09Jun26_Planting Prescription (11x17).pdf"
     },
     {
-      "code": "3592",
-      "source_file": "3592_blockMap.pdf",
-      "selected_file": "3592_blockMap.pdf"
+      "code": "EAG059",
+      "source_file": "19C.EAG059.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "19C.EAG059.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf"
     },
     {
-      "code": "3593",
-      "source_file": "3593_blockMap.pdf",
-      "selected_file": "3593_blockMap.pdf"
+      "code": "EAG065",
+      "source_file": "19C.EAG065.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "19C.EAG065.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf"
     },
     {
-      "code": "3594",
-      "source_file": "3594_blockMap.pdf",
-      "selected_file": "3594_blockMap.pdf"
+      "code": "NMC080",
+      "source_file": "19T.NMC080_IU.TFL30._08Jun26_Planting Prescription (11x17)(2)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "19T.NMC080_IU.TFL30._08Jun26_Planting Prescription (11x17)(2)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf"
     },
     {
-      "code": "3595",
-      "source_file": "3595_blockMap.pdf",
-      "selected_file": "3595_blockMap.pdf"
+      "code": "EAG054",
+      "source_file": "2I.EAG054.TFL30._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "2I.EAG054.TFL30._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf"
     },
     {
-      "code": "3598",
-      "source_file": "3598_blockMap.pdf",
-      "selected_file": "3598_blockMap.pdf"
+      "code": "LIM022",
+      "source_file": "5AI.LIM022.TFL30._08Jun26_Planting Prescription (11x17)(4)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "5AI.LIM022.TFL30._08Jun26_Planting Prescription (11x17)(4)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf"
     },
     {
-      "code": "3600",
-      "source_file": "3600_blockMap.pdf",
-      "selected_file": "3600_blockMap.pdf"
+      "code": "LIM119",
+      "source_file": "6AA.LIM119.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "6AA.LIM119.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf"
     },
     {
-      "code": "3601",
-      "source_file": "3601_blockMap.pdf",
-      "selected_file": "3601_blockMap.pdf"
+      "code": "LIM120",
+      "source_file": "6AA.LIM120.TFL30._09Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "6AA.LIM120.TFL30._09Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf"
     },
     {
-      "code": "627-004",
-      "source_file": "627-004_plotMap.pdf",
-      "selected_file": "627-004_plotMap.pdf"
+      "code": "OLS056",
+      "source_file": "8AH.OLS056.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "8AH.OLS056.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf"
     },
     {
-      "code": "CAV0042",
-      "source_file": "CAV0042_plotMap.pdf",
-      "selected_file": "CAV0042_plotMap.pdf"
+      "code": "OTT017",
+      "source_file": "US9_OTT017_1_plot_per_2ha_numbered_REVISED.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "US9_OTT017_1_plot_per_2ha_numbered_REVISED.pdf"
     },
     {
-      "code": "CAV0043",
-      "source_file": "CAV0043_plotMap.pdf",
-      "selected_file": "CAV0043_plotMap.pdf"
+      "code": "OTT013",
+      "source_file": "UT4.OTT013.A40873._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "UT4.OTT013.A40873._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf"
     },
     {
-      "code": "CAV0045",
-      "source_file": "CAV0045_plotMap.pdf",
-      "selected_file": "CAV0045_plotMap.pdf"
+      "code": "OTT043",
+      "source_file": "UV6.OTT043.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "UV6.OTT043.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf"
     },
     {
-      "code": "EER0026",
-      "source_file": "EER0026_plotMap.pdf",
-      "selected_file": "EER0026_plotMap.pdf"
-    },
-    {
-      "code": "EFH0031",
-      "source_file": "EFH0031_plotMap.pdf",
-      "selected_file": "EFH0031_plotMap.pdf"
-    },
-    {
-      "code": "EFH0041",
-      "source_file": "EFH0041_plotMap.pdf",
-      "selected_file": "EFH0041_plotMap.pdf"
-    },
-    {
-      "code": "LIN0014",
-      "source_file": "LIN0014_plotMap.pdf",
-      "selected_file": "LIN0014_plotMap.pdf"
-    },
-    {
-      "code": "LIN0065",
-      "source_file": "LIN0065_plotMap.pdf",
-      "selected_file": "LIN0065_plotMap.pdf"
-    },
-    {
-      "code": "LIN0066",
-      "source_file": "LIN0066_plotMap.pdf",
-      "selected_file": "LIN0066_plotMap.pdf"
-    },
-    {
-      "code": "LIN0069",
-      "source_file": "LIN0069_plotMap.pdf",
-      "selected_file": "LIN0069_plotMap.pdf"
-    },
-    {
-      "code": "LIN0084",
-      "source_file": "LIN0084_plotMap.pdf",
-      "selected_file": "LIN0084_plotMap.pdf"
-    },
-    {
-      "code": "UER0013",
-      "source_file": "UER0013_plotMap.pdf",
-      "selected_file": "UER0013_plotMap.pdf"
-    },
-    {
-      "code": "UER0014",
-      "source_file": "UER0014_plotMap.pdf",
-      "selected_file": "UER0014_plotMap.pdf"
-    },
-    {
-      "code": "UER0033",
-      "source_file": "UER0033_plotMap.pdf",
-      "selected_file": "UER0033_plotMap.pdf"
-    },
-    {
-      "code": "UER0058",
-      "source_file": "UER0058_plotMap.pdf",
-      "selected_file": "UER0058_plotMap.pdf"
-    },
-    {
-      "code": "WFH0011",
-      "source_file": "WFH0011_plotMap.pdf",
-      "selected_file": "WFH0011_plotMap.pdf"
+      "code": "GOV532",
+      "source_file": "VL7.GOV532.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_dir": "Canfor Summer maps",
+      "selected_file": "VL7.GOV532.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf"
     }
   ],
   "unused_replacements": [
     {
+      "code": "ALX0032",
+      "file": "639.ALX0032.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "ALX0033",
+      "file": "639.ALX0033.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "ALX0034",
+      "file": "639.ALX0034.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "ALX0035",
+      "file": "639.ALX0035.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "ALX0039",
+      "file": "630.ALX0039.A19040._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "CAV0031",
+      "file": "817.CAV0031.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "CAV0037",
+      "file": "885.CAV0037.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "CAV0060",
+      "file": "899.CAV0060.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "CAV0061",
+      "file": "899.CAV0061.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "CAV0070",
+      "file": "006.CAV0070.A94545._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "CAV0085",
+      "file": "AIA.880.CAV0085.A19040._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "EER0127",
+      "file": "AIA.011.EER0127.A94545._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "EER0130",
+      "file": "AIA.009.EER0130.A94545._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "EER0131",
+      "file": "AIA.009.EER0131.A94545._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "EER0132",
+      "file": "AIA.009.EER0132.A94545._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "LER0098",
+      "file": "AIA.633.LER0098.A19040._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "LER0131",
+      "file": "AIA.633.LER0131.A19040._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "LIN0009",
+      "file": "872.LIN0009.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "LIN0075",
+      "file": "875.LIN0075.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "LIN0078",
+      "file": "886.LIN0078.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "LIN0089",
+      "file": "878.LIN0089.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "LIN0090",
+      "file": "886.LIN0090.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "LIN0103",
+      "file": "894.LIN0103.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "LIN0105",
+      "file": "AIA.898.LIN0105.A19040._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "LIN0108",
+      "file": "898.LIN0108.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "LIN0109",
+      "file": "898.LIN0109.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "TEE0004",
+      "file": "856.TEE0004.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "TEE0010",
+      "file": "005.TEE0010.A94545._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "TEE0012",
+      "file": "884.TEE0012.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "TEE0020",
+      "file": "861.TEE0020.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "TEE0025",
+      "file": "884.TEE0025.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "WER0025",
+      "file": "691.WER0025.A19040._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
       "code": "WER0056",
       "file": "538.WER0056.A19040._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "WER0060",
+      "file": "538.WER0060.A19040._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "WER0061",
+      "file": "538.WER0061.A19040._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "WER0062",
+      "file": "538.WER0062.A19040._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "WER0066",
+      "file": "AIA.538.WER0066.A19040._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "WFH0003",
+      "file": "AIA.012.WFH0003.A94545._25Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "WFH0004",
+      "file": "012.WFH0004.A94545._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "WFH0032",
+      "file": "012.WFH0032.A94545._19Mar26_Planting Prescription (11x17).pdf"
+    },
+    {
+      "code": "YAK0063",
+      "file": "AIA.836.YAK0063.A19040._25Mar26_Planting Prescription (11x17).pdf"
     }
   ],
   "replacement_georef_failures": [],
   "source_failures": [],
+  "duplicate_source_codes": {},
   "duplicate_replacements": {},
   "replacements_without_code": []
 }

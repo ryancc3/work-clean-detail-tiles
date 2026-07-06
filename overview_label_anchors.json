@@ -1,1414 +1,426 @@
 {
   "dpi": 300,
   "anchor_method": "largest detected block-only alpha component centroid",
-  "count": 74,
+  "count": 22,
   "failures": [],
   "anchors": [
     {
-      "file": "252-006_plotMap.pdf",
-      "source_file": "252-006_plotMap.pdf",
-      "label": "252-006",
-      "lon": -114.50772401178753,
-      "lat": 49.15833484408537,
-      "component_area_px": 75013,
+      "file": "10R.FLU038_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_file": "10R.FLU038_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "label": "FLU038",
+      "lon": -121.95286665016064,
+      "lat": 54.31977403983271,
+      "component_area_px": 1325,
       "component_bbox_px": [
-        849,
-        474,
-        1366,
-        2262
+        556,
+        502,
+        648,
+        679
       ],
       "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
       "used_replacement": false
     },
     {
-      "file": "3561_blockMap.pdf",
-      "source_file": "3561_blockMap.pdf",
-      "label": "3561",
-      "lon": -115.57260237195416,
-      "lat": 49.38614336727814,
-      "component_area_px": 129476,
+      "file": "10W.EAG055.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "source_file": "10W.EAG055.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "label": "EAG055",
+      "lon": -122.18205702580262,
+      "lat": 54.16308401322171,
+      "component_area_px": 2176,
       "component_bbox_px": [
-        1507,
-        735,
-        332,
-        556
+        759,
+        182,
+        712,
+        734
       ],
       "rendered_size_px": [
-        3627,
-        3075
+        3060,
+        3210
       ],
       "used_replacement": false
     },
     {
-      "file": "3562_blockMap.pdf",
-      "source_file": "3562_blockMap.pdf",
-      "label": "3562",
-      "lon": -115.57453220910803,
-      "lat": 49.39391843486536,
-      "component_area_px": 33782,
+      "file": "10W.EAG055A.TFL30._08Jun26_Planting Prescription (11x17).pdf",
+      "source_file": "10W.EAG055A.TFL30._08Jun26_Planting Prescription (11x17).pdf",
+      "label": "EAG055A",
+      "lon": -122.16480776164013,
+      "lat": 54.15412319620283,
+      "component_area_px": 47,
       "component_bbox_px": [
-        1732,
-        1190,
-        156,
-        348
+        1851,
+        326,
+        6,
+        27
       ],
       "rendered_size_px": [
-        3627,
-        3075
+        3060,
+        3210
       ],
       "used_replacement": false
     },
     {
-      "file": "3569_blockMap.pdf",
-      "source_file": "3569_blockMap.pdf",
-      "label": "3569",
-      "lon": -115.23020663174628,
-      "lat": 49.40034030423543,
-      "component_area_px": 169449,
+      "file": "10W.EAG057.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "source_file": "10W.EAG057.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "label": "EAG057",
+      "lon": -122.12695165132706,
+      "lat": 54.153033792595956,
+      "component_area_px": 738,
       "component_bbox_px": [
-        1627,
-        1097,
-        574,
-        693
+        458,
+        335,
+        1,
+        738
       ],
       "rendered_size_px": [
-        3627,
-        3074
+        3060,
+        3210
       ],
       "used_replacement": false
     },
     {
-      "file": "3570_blockMap.pdf",
-      "source_file": "3570_blockMap.pdf",
-      "label": "3570",
-      "lon": -115.23752044518356,
-      "lat": 49.401634876190606,
-      "component_area_px": 330158,
+      "file": "10W.EAG063.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "source_file": "10W.EAG063.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "label": "EAG063",
+      "lon": -122.1975940156933,
+      "lat": 54.11786554566871,
+      "component_area_px": 1450,
       "component_bbox_px": [
-        1895,
-        868,
-        825,
-        973
-      ],
-      "rendered_size_px": [
-        3627,
-        3074
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3571_blockMap.pdf",
-      "source_file": "3571_blockMap.pdf",
-      "label": "3571",
-      "lon": -115.24179315985057,
-      "lat": 49.41722170195028,
-      "component_area_px": 202845,
-      "component_bbox_px": [
-        1715,
-        575,
-        493,
+        589,
+        509,
+        712,
         739
       ],
       "rendered_size_px": [
-        3627,
-        3075
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3572_blockMap.pdf",
-      "source_file": "3572_blockMap.pdf",
-      "label": "3572",
-      "lon": -115.27635658254327,
-      "lat": 49.43188179104017,
-      "component_area_px": 608184,
-      "component_bbox_px": [
-        1562,
-        632,
-        966,
-        1186
-      ],
-      "rendered_size_px": [
-        3627,
-        3074
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3573_blockMap.pdf",
-      "source_file": "3573_blockMap.pdf",
-      "label": "3573",
-      "lon": -115.28659368769962,
-      "lat": 49.43899517077161,
-      "component_area_px": 47443,
-      "component_bbox_px": [
-        1978,
-        946,
-        280,
-        295
-      ],
-      "rendered_size_px": [
-        3627,
-        3075
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3574_blockMap.pdf",
-      "source_file": "3574_blockMap.pdf",
-      "label": "3574",
-      "lon": -115.22212673458205,
-      "lat": 49.40274485847775,
-      "component_area_px": 322489,
-      "component_bbox_px": [
-        1405,
-        745,
-        818,
-        667
-      ],
-      "rendered_size_px": [
-        3627,
-        3075
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3575_blockMap.pdf",
-      "source_file": "3575_blockMap.pdf",
-      "label": "3575",
-      "lon": -115.21194012857391,
-      "lat": 49.40459661045741,
-      "component_area_px": 615739,
-      "component_bbox_px": [
-        1838,
-        526,
-        1082,
-        1188
-      ],
-      "rendered_size_px": [
-        3627,
-        3075
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3592_blockMap.pdf",
-      "source_file": "3592_blockMap.pdf",
-      "label": "3592",
-      "lon": -115.52588961651841,
-      "lat": 49.3032130794445,
-      "component_area_px": 1104185,
-      "component_bbox_px": [
-        2021,
-        231,
-        1274,
-        1700
-      ],
-      "rendered_size_px": [
-        3627,
-        3075
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3593_blockMap.pdf",
-      "source_file": "3593_blockMap.pdf",
-      "label": "3593",
-      "lon": -115.53690655446933,
-      "lat": 49.30914781649032,
-      "component_area_px": 144042,
-      "component_bbox_px": [
-        1531,
-        649,
-        567,
-        533
-      ],
-      "rendered_size_px": [
-        3627,
-        3075
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3594_blockMap.pdf",
-      "source_file": "3594_blockMap.pdf",
-      "label": "3594",
-      "lon": -115.53824932446625,
-      "lat": 49.29788665546128,
-      "component_area_px": 413363,
-      "component_bbox_px": [
-        2077,
-        1013,
-        876,
-        954
-      ],
-      "rendered_size_px": [
-        3627,
-        3075
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3595_blockMap.pdf",
-      "source_file": "3595_blockMap.pdf",
-      "label": "3595",
-      "lon": -115.53831086707969,
-      "lat": 49.304034956325296,
-      "component_area_px": 234943,
-      "component_bbox_px": [
-        1695,
-        721,
-        882,
-        743
-      ],
-      "rendered_size_px": [
-        3627,
-        3075
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3598_blockMap.pdf",
-      "source_file": "3598_blockMap.pdf",
-      "label": "3598",
-      "lon": -115.55367260860451,
-      "lat": 49.30061791721626,
-      "component_area_px": 102554,
-      "component_bbox_px": [
-        1822,
-        951,
-        412,
-        494
-      ],
-      "rendered_size_px": [
-        3627,
-        3075
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3600_blockMap.pdf",
-      "source_file": "3600_blockMap.pdf",
-      "label": "3600",
-      "lon": -115.50448056957943,
-      "lat": 49.284190033824984,
-      "component_area_px": 329291,
-      "component_bbox_px": [
-        1833,
-        843,
-        632,
-        743
-      ],
-      "rendered_size_px": [
-        3627,
-        3075
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "3601_blockMap.pdf",
-      "source_file": "3601_blockMap.pdf",
-      "label": "3601",
-      "lon": -115.55671660952565,
-      "lat": 49.30860812703914,
-      "component_area_px": 455191,
-      "component_bbox_px": [
-        2049,
-        514,
-        831,
-        1145
-      ],
-      "rendered_size_px": [
-        3627,
-        3075
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "627-004_plotMap.pdf",
-      "source_file": "627-004_plotMap.pdf",
-      "label": "627-004",
-      "lon": -114.6735141574434,
-      "lat": 49.529609772100365,
-      "component_area_px": 84310,
-      "component_bbox_px": [
-        266,
-        824,
-        2527,
-        1563
-      ],
-      "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
       "used_replacement": false
     },
     {
-      "file": "639.ALX0032.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "ALX0032_plotMap.pdf",
-      "label": "ALX0032",
-      "lon": -114.69351827439847,
-      "lat": 49.7363927871085,
-      "component_area_px": 28158,
+      "file": "12Q.SEE068_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_file": "12Q.SEE068_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "label": "SEE068",
+      "lon": -122.0407270872489,
+      "lat": 54.417402229450055,
+      "component_area_px": 678,
       "component_bbox_px": [
-        1160,
-        1058,
-        739,
-        1094
+        1053,
+        206,
+        1,
+        678
       ],
       "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "639.ALX0033.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "ALX0033_plotMap.pdf",
-      "label": "ALX0033",
-      "lon": -114.68399253835267,
-      "lat": 49.73517219708035,
-      "component_area_px": 19101,
-      "component_bbox_px": [
-        1159,
-        1396,
-        747,
-        418
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "639.ALX0034.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "ALX0034_plotMap.pdf",
-      "label": "ALX0034",
-      "lon": -114.69779776847598,
-      "lat": 49.738819947900964,
-      "component_area_px": 7079,
-      "component_bbox_px": [
-        1433,
-        1459,
-        198,
-        290
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "639.ALX0035.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "ALX0035_plotMap.pdf",
-      "label": "ALX0035",
-      "lon": -114.69772405343117,
-      "lat": 49.73620325858292,
-      "component_area_px": 6157,
-      "component_bbox_px": [
-        1456,
-        1460,
-        152,
-        290
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "630.ALX0039.A19040._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "ALX0039_plotMap.pdf",
-      "label": "ALX0039",
-      "lon": -114.72859216987464,
-      "lat": 49.74450694892339,
-      "component_area_px": 14992,
-      "component_bbox_px": [
-        1265,
-        1355,
-        534,
-        500
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "817.CAV0031.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "CAV0031_plotMap.pdf",
-      "label": "CAV0031",
-      "lon": -115.38054272083204,
-      "lat": 49.147101336039704,
-      "component_area_px": 17456,
-      "component_bbox_px": [
-        1283,
-        1260,
-        500,
-        689
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "885.CAV0037.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "CAV0037_plotMap.pdf",
-      "label": "CAV0037",
-      "lon": -115.51408297916747,
-      "lat": 49.06561143454692,
-      "component_area_px": 31272,
-      "component_bbox_px": [
-        1093,
-        1230,
-        884,
-        750
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "CAV0042_plotMap.pdf",
-      "source_file": "CAV0042_plotMap.pdf",
-      "label": "CAV0042",
-      "lon": -115.47753505408126,
-      "lat": 49.100828473476064,
-      "component_area_px": 59924,
-      "component_bbox_px": [
-        927,
-        724,
-        1210,
-        1764
-      ],
-      "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
       "used_replacement": false
     },
     {
-      "file": "CAV0043_plotMap.pdf",
-      "source_file": "CAV0043_plotMap.pdf",
-      "label": "CAV0043",
-      "lon": -115.44231291073514,
-      "lat": 49.205218197655306,
-      "component_area_px": 106030,
+      "file": "19B.EAG056.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "source_file": "19B.EAG056.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "label": "EAG056",
+      "lon": -122.13374060902596,
+      "lat": 54.14693186325614,
+      "component_area_px": 1443,
       "component_bbox_px": [
-        546,
-        733,
-        1972,
-        1744
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "CAV0045_plotMap.pdf",
-      "source_file": "CAV0045_plotMap.pdf",
-      "label": "CAV0045",
-      "lon": -115.44275867753409,
-      "lat": 49.1892251820803,
-      "component_area_px": 49760,
-      "component_bbox_px": [
-        774,
-        902,
-        1516,
-        1406
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "899.CAV0060.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "CAV0060_plotMap.pdf",
-      "label": "CAV0060",
-      "lon": -115.53604950189585,
-      "lat": 49.05392844054231,
-      "component_area_px": 48940,
-      "component_bbox_px": [
-        877,
-        1208,
-        1310,
-        794
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "899.CAV0061.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "CAV0061_plotMap.pdf",
-      "label": "CAV0061",
-      "lon": -115.53421772113464,
-      "lat": 49.061071953651066,
-      "component_area_px": 45652,
-      "component_bbox_px": [
-        834,
-        1233,
-        1396,
-        745
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "006.CAV0070.A94545._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "CAV0070_plotMap.pdf",
-      "label": "CAV0070",
-      "lon": -115.50465085089144,
-      "lat": 49.102751618817436,
-      "component_area_px": 40677,
-      "component_bbox_px": [
-        817,
-        1121,
-        1436,
-        968
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "AIA.880.CAV0085.A19040._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "CAV0085_plotMap.pdf",
-      "label": "CAV0085",
-      "lon": -115.45326948953225,
-      "lat": 49.15506071659485,
-      "component_area_px": 9232,
-      "component_bbox_px": [
-        1428,
-        1423,
-        205,
-        365
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "EER0026_plotMap.pdf",
-      "source_file": "EER0026_plotMap.pdf",
-      "label": "EER0026",
-      "lon": -114.954079772134,
-      "lat": 50.184074712671176,
-      "component_area_px": 52589,
-      "component_bbox_px": [
-        1086,
-        701,
-        892,
-        1813
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "AIA.011.EER0127.A94545._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "EER0127_plotMap.pdf",
-      "label": "EER0127",
-      "lon": -114.95629252912826,
-      "lat": 50.1718271272852,
-      "component_area_px": 37049,
-      "component_bbox_px": [
-        949,
-        969,
-        1172,
-        1268
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "AIA.009.EER0130.A94545._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "EER0130_plotMap.pdf",
-      "label": "EER0130",
-      "lon": -114.96340613949346,
-      "lat": 50.196949158388726,
-      "component_area_px": 38368,
-      "component_bbox_px": [
-        1111,
-        874,
-        842,
-        1462
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "AIA.009.EER0131.A94545._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "EER0131_plotMap.pdf",
-      "label": "EER0131",
-      "lon": -114.96577195050342,
-      "lat": 50.20752604027979,
-      "component_area_px": 16636,
-      "component_bbox_px": [
-        1205,
-        1399,
-        654,
-        412
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "AIA.009.EER0132.A94545._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "EER0132_plotMap.pdf",
-      "label": "EER0132",
-      "lon": -114.9588037673294,
-      "lat": 50.220094532274985,
-      "component_area_px": 11139,
-      "component_bbox_px": [
-        1392,
-        1399,
-        280,
-        412
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "EFH0031_plotMap.pdf",
-      "source_file": "EFH0031_plotMap.pdf",
-      "label": "EFH0031",
-      "lon": -114.42347350455114,
-      "lat": 49.12374711875154,
-      "component_area_px": 22578,
-      "component_bbox_px": [
-        1187,
-        1349,
-        690,
-        512
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "EFH0041_plotMap.pdf",
-      "source_file": "EFH0041_plotMap.pdf",
-      "label": "EFH0041",
-      "lon": -114.45050644531854,
-      "lat": 49.11570002625891,
-      "component_area_px": 12599,
-      "component_bbox_px": [
-        1317,
-        1407,
-        429,
-        395
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "AIA.633.LER0098.A19040._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "LER0098_plotMap.pdf",
-      "label": "LER0098",
-      "lon": -114.9225822179026,
-      "lat": 49.719539799738484,
-      "component_area_px": 45006,
-      "component_bbox_px": [
-        1120,
-        852,
-        832,
-        1506
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "AIA.633.LER0131.A19040._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "LER0131_plotMap.pdf",
-      "label": "LER0131",
-      "lon": -114.92877824704198,
-      "lat": 49.73106922915448,
-      "component_area_px": 31258,
-      "component_bbox_px": [
-        1081,
-        986,
-        905,
-        1236
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "872.LIN0009.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "LIN0009_plotMap.pdf",
-      "label": "LIN0009",
-      "lon": -115.38151382398921,
-      "lat": 49.19898996670943,
-      "component_area_px": 36915,
-      "component_bbox_px": [
-        895,
-        1099,
-        1275,
-        1014
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "LIN0014_plotMap.pdf",
-      "source_file": "LIN0014_plotMap.pdf",
-      "label": "LIN0014",
-      "lon": -115.3936762633423,
-      "lat": 49.28731947957464,
-      "component_area_px": 26477,
-      "component_bbox_px": [
-        1167,
-        1050,
-        730,
-        1110
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "LIN0065_plotMap.pdf",
-      "source_file": "LIN0065_plotMap.pdf",
-      "label": "LIN0065",
-      "lon": -115.28728468658362,
-      "lat": 49.06300357068257,
-      "component_area_px": 50987,
-      "component_bbox_px": [
-        1009,
-        871,
-        1043,
-        1468
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "LIN0066_plotMap.pdf",
-      "source_file": "LIN0066_plotMap.pdf",
-      "label": "LIN0066",
-      "lon": -115.3083361185402,
-      "lat": 49.06515785533254,
-      "component_area_px": 22269,
-      "component_bbox_px": [
-        1177,
-        1117,
-        591,
-        976
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "LIN0069_plotMap.pdf",
-      "source_file": "LIN0069_plotMap.pdf",
-      "label": "LIN0069",
-      "lon": -115.30121042605029,
-      "lat": 49.06464380896397,
-      "component_area_px": 18543,
-      "component_bbox_px": [
-        1257,
-        1267,
-        548,
-        675
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "875.LIN0075.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "LIN0075_plotMap.pdf",
-      "label": "LIN0075",
-      "lon": -115.30521892041095,
-      "lat": 49.07112705833863,
-      "component_area_px": 24203,
-      "component_bbox_px": [
-        1165,
-        1318,
-        734,
-        574
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "886.LIN0078.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "LIN0078_plotMap.pdf",
-      "label": "LIN0078",
-      "lon": -115.38302599405026,
-      "lat": 49.2404111336257,
-      "component_area_px": 33613,
-      "component_bbox_px": [
-        1021,
-        1174,
-        1022,
-        862
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "LIN0084_plotMap.pdf",
-      "source_file": "LIN0084_plotMap.pdf",
-      "label": "LIN0084",
-      "lon": -115.29628196468197,
-      "lat": 49.06312209670467,
-      "component_area_px": 8000,
-      "component_bbox_px": [
-        1399,
-        1433,
-        266,
-        344
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": false
-    },
-    {
-      "file": "878.LIN0089.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "LIN0089_plotMap.pdf",
-      "label": "LIN0089",
-      "lon": -115.37756202801194,
-      "lat": 49.2357667782219,
-      "component_area_px": 9654,
-      "component_bbox_px": [
-        1380,
-        1446,
-        303,
-        318
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "886.LIN0090.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "LIN0090_plotMap.pdf",
-      "label": "LIN0090",
-      "lon": -115.28829392371175,
-      "lat": 49.17076550751718,
-      "component_area_px": 32377,
-      "component_bbox_px": [
-        927,
-        1224,
-        1206,
-        762
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "894.LIN0103.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "LIN0103_plotMap.pdf",
-      "label": "LIN0103",
-      "lon": -115.28928401505306,
-      "lat": 49.02749519996992,
-      "component_area_px": 34236,
-      "component_bbox_px": [
-        1146,
-        1252,
-        772,
-        706
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "AIA.898.LIN0105.A19040._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "LIN0105_plotMap.pdf",
-      "label": "LIN0105",
-      "lon": -115.31076834422038,
-      "lat": 49.04641174156995,
-      "component_area_px": 48151,
-      "component_bbox_px": [
-        573,
-        1132,
-        1917,
-        946
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "898.LIN0108.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "LIN0108_plotMap.pdf",
-      "label": "LIN0108",
-      "lon": -115.30040564178199,
-      "lat": 49.15143203681246,
-      "component_area_px": 15187,
-      "component_bbox_px": [
-        1318,
-        1350,
-        430,
-        510
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "898.LIN0109.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "LIN0109_plotMap.pdf",
-      "label": "LIN0109",
-      "lon": -115.3075287806608,
-      "lat": 49.16614534570552,
-      "component_area_px": 9091,
-      "component_bbox_px": [
-        1355,
-        1489,
-        354,
-        232
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "856.TEE0004.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "TEE0004_plotMap.pdf",
-      "label": "TEE0004",
-      "lon": -115.66628446468995,
-      "lat": 49.22570071567922,
-      "component_area_px": 66507,
-      "component_bbox_px": [
-        815,
-        524,
-        1433,
-        2164
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "005.TEE0010.A94545._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "TEE0010_plotMap.pdf",
-      "label": "TEE0010",
-      "lon": -115.61822794696486,
-      "lat": 49.22057187524103,
-      "component_area_px": 17103,
-      "component_bbox_px": [
-        1312,
-        1263,
-        440,
-        682
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "884.TEE0012.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "TEE0012_plotMap.pdf",
-      "label": "TEE0012",
-      "lon": -115.59624027408815,
-      "lat": 49.220739121882815,
-      "component_area_px": 58960,
-      "component_bbox_px": [
-        836,
-        992,
-        1394,
-        1226
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "861.TEE0020.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "TEE0020_plotMap.pdf",
-      "label": "TEE0020",
-      "lon": -115.73592005027847,
-      "lat": 49.240861637416884,
-      "component_area_px": 38197,
-      "component_bbox_px": [
-        924,
-        1268,
-        1216,
-        676
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "884.TEE0025.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "TEE0025_plotMap.pdf",
-      "label": "TEE0025",
-      "lon": -115.57593395835424,
-      "lat": 49.224294033430176,
-      "component_area_px": 51438,
-      "component_bbox_px": [
-        452,
-        1068,
-        2160,
-        1079
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "UER0013_plotMap.pdf",
-      "source_file": "UER0013_plotMap.pdf",
-      "label": "UER0013",
-      "lon": -114.912423945749,
-      "lat": 50.36056509510983,
-      "component_area_px": 23437,
-      "component_bbox_px": [
-        1177,
-        1202,
+        666,
+        302,
         710,
-        806
+        735
       ],
       "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
       "used_replacement": false
     },
     {
-      "file": "UER0014_plotMap.pdf",
-      "source_file": "UER0014_plotMap.pdf",
-      "label": "UER0014",
-      "lon": -114.8978285693931,
-      "lat": 50.363129455217525,
-      "component_area_px": 68896,
+      "file": "19B.EAG060.TFL30._08Jun26_Planting Prescription (11x17).pdf",
+      "source_file": "19B.EAG060.TFL30._08Jun26_Planting Prescription (11x17).pdf",
+      "label": "EAG060",
+      "lon": -122.16692013553951,
+      "lat": 54.147885660046924,
+      "component_area_px": 715,
       "component_bbox_px": [
-        834,
-        605,
-        1397,
-        2001
+        377,
+        1708,
+        715,
+        1
       ],
       "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
       "used_replacement": false
     },
     {
-      "file": "UER0033_plotMap.pdf",
-      "source_file": "UER0033_plotMap.pdf",
-      "label": "UER0033",
-      "lon": -115.03889153760986,
-      "lat": 50.536949566389495,
-      "component_area_px": 38647,
+      "file": "19B.EAG061.TFL30._08Jun26_Planting Prescription (11x17).pdf",
+      "source_file": "19B.EAG061.TFL30._08Jun26_Planting Prescription (11x17).pdf",
+      "label": "EAG061",
+      "lon": -122.17313767528951,
+      "lat": 54.13163881905782,
+      "component_area_px": 1450,
       "component_bbox_px": [
-        1070,
-        1111,
-        923,
-        990
+        539,
+        372,
+        712,
+        739
       ],
       "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
       "used_replacement": false
     },
     {
-      "file": "UER0058_plotMap.pdf",
-      "source_file": "UER0058_plotMap.pdf",
-      "label": "UER0058",
-      "lon": -114.90862595123849,
-      "lat": 50.38118193815367,
-      "component_area_px": 31614,
+      "file": "19B.EAG062.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "source_file": "19B.EAG062.TFL30._09Jun26_Planting Prescription (11x17).pdf",
+      "label": "EAG062",
+      "lon": -122.14887966591755,
+      "lat": 54.13238434537229,
+      "component_area_px": 1444,
       "component_bbox_px": [
-        1209,
-        1108,
-        646,
-        994
+        841,
+        324,
+        710,
+        735
       ],
       "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
       "used_replacement": false
     },
     {
-      "file": "691.WER0025.A19040._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "WER0025_plotMap.pdf",
-      "label": "WER0025",
-      "lon": -114.94540912581701,
-      "lat": 49.90753211650663,
-      "component_area_px": 9863,
+      "file": "19C.EAG059.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_file": "19C.EAG059.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "label": "EAG059",
+      "lon": -122.17825904873851,
+      "lat": 54.15634171590734,
+      "component_area_px": 716,
       "component_bbox_px": [
-        1321,
-        1483,
-        422,
-        244
+        305,
+        1365,
+        716,
+        1
       ],
       "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
-      "used_replacement": true
+      "used_replacement": false
     },
     {
-      "file": "538.WER0060.A19040._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "WER0060_plotMap.pdf",
-      "label": "WER0060",
-      "lon": -115.01824782951259,
-      "lat": 50.18197696736149,
-      "component_area_px": 25910,
+      "file": "19C.EAG065.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_file": "19C.EAG065.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "label": "EAG065",
+      "lon": -122.18034159699252,
+      "lat": 54.143770839102295,
+      "component_area_px": 716,
       "component_bbox_px": [
-        1042,
-        1280,
-        980,
-        651
+        494,
+        740,
+        716,
+        1
       ],
       "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
-      "used_replacement": true
+      "used_replacement": false
     },
     {
-      "file": "538.WER0061.A19040._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "WER0061_plotMap.pdf",
-      "label": "WER0061",
-      "lon": -115.01668333393737,
-      "lat": 50.18505443241933,
-      "component_area_px": 12828,
+      "file": "19T.NMC080_IU.TFL30._08Jun26_Planting Prescription (11x17)(2)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_file": "19T.NMC080_IU.TFL30._08Jun26_Planting Prescription (11x17)(2)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "label": "NMC080",
+      "lon": -121.73995519072264,
+      "lat": 54.09089169977771,
+      "component_area_px": 1041,
       "component_bbox_px": [
-        1334,
-        1374,
-        397,
-        462
+        509,
+        249,
+        729,
+        313
       ],
       "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
-      "used_replacement": true
+      "used_replacement": false
     },
     {
-      "file": "538.WER0062.A19040._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "WER0062_plotMap.pdf",
-      "label": "WER0062",
-      "lon": -115.01155288842533,
-      "lat": 50.18439912704156,
-      "component_area_px": 12593,
+      "file": "2I.EAG054.TFL30._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_file": "2I.EAG054.TFL30._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "label": "EAG054",
+      "lon": -122.15336693542147,
+      "lat": 54.14932212708914,
+      "component_area_px": 711,
       "component_bbox_px": [
-        1349,
-        1386,
-        366,
-        438
+        1619,
+        1048,
+        711,
+        1
       ],
       "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
-      "used_replacement": true
+      "used_replacement": false
     },
     {
-      "file": "AIA.538.WER0066.A19040._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "WER0066_plotMap.pdf",
-      "label": "WER0066",
-      "lon": -114.98194899460715,
-      "lat": 50.184922698392896,
-      "component_area_px": 14765,
+      "file": "5AI.LIM022.TFL30._08Jun26_Planting Prescription (11x17)(4)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_file": "5AI.LIM022.TFL30._08Jun26_Planting Prescription (11x17)(4)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "label": "LIM022",
+      "lon": -122.2151196596673,
+      "lat": 54.233569650359215,
+      "component_area_px": 1058,
       "component_bbox_px": [
-        1331,
-        1386,
+        387,
+        387,
+        717,
+        343
+      ],
+      "rendered_size_px": [
+        3060,
+        3210
+      ],
+      "used_replacement": false
+    },
+    {
+      "file": "6AA.LIM119.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_file": "6AA.LIM119.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "label": "LIM119",
+      "lon": -122.1953982639747,
+      "lat": 54.20043095691645,
+      "component_area_px": 728,
+      "component_bbox_px": [
+        491,
+        740,
+        728,
+        1
+      ],
+      "rendered_size_px": [
+        3060,
+        3210
+      ],
+      "used_replacement": false
+    },
+    {
+      "file": "6AA.LIM120.TFL30._09Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_file": "6AA.LIM120.TFL30._09Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "label": "LIM120",
+      "lon": -122.21728223374527,
+      "lat": 54.201574395164606,
+      "component_area_px": 379,
+      "component_bbox_px": [
+        1278,
+        168,
+        1,
+        379
+      ],
+      "rendered_size_px": [
+        3060,
+        3210
+      ],
+      "used_replacement": false
+    },
+    {
+      "file": "8AH.OLS056.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_file": "8AH.OLS056.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "label": "OLS056",
+      "lon": -122.04397129704319,
+      "lat": 54.26463118922751,
+      "component_area_px": 1326,
+      "component_bbox_px": [
+        406,
+        224,
+        648,
+        679
+      ],
+      "rendered_size_px": [
+        3060,
+        3210
+      ],
+      "used_replacement": false
+    },
+    {
+      "file": "US9_OTT017_1_plot_per_2ha_numbered_REVISED.pdf",
+      "source_file": "US9_OTT017_1_plot_per_2ha_numbered_REVISED.pdf",
+      "label": "OTT017",
+      "lon": -121.83027726012716,
+      "lat": 54.35718575978,
+      "component_area_px": 1326,
+      "component_bbox_px": [
         403,
-        438
+        249,
+        648,
+        679
       ],
       "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "AIA.012.WFH0003.A94545._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "WFH0003_plotMap.pdf",
-      "label": "WFH0003",
-      "lon": -114.57657458238354,
-      "lat": 49.1045307777692,
-      "component_area_px": 26219,
-      "component_bbox_px": [
-        1084,
-        1208,
-        897,
-        795
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "012.WFH0004.A94545._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "WFH0004_plotMap.pdf",
-      "label": "WFH0004",
-      "lon": -114.58818721859387,
-      "lat": 49.10899240826784,
-      "component_area_px": 37688,
-      "component_bbox_px": [
-        815,
-        1197,
-        1434,
-        815
-      ],
-      "rendered_size_px": [
-        3064,
-        3210
-      ],
-      "used_replacement": true
-    },
-    {
-      "file": "WFH0011_plotMap.pdf",
-      "source_file": "WFH0011_plotMap.pdf",
-      "label": "WFH0011",
-      "lon": -114.62959530571514,
-      "lat": 49.00965767523868,
-      "component_area_px": 83273,
-      "component_bbox_px": [
-        127,
-        721,
-        2812,
-        1768
-      ],
-      "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
       "used_replacement": false
     },
     {
-      "file": "012.WFH0032.A94545._19Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "WFH0032_plotMap.pdf",
-      "label": "WFH0032",
-      "lon": -114.55352542661421,
-      "lat": 49.099060173096674,
-      "component_area_px": 27094,
+      "file": "UT4.OTT013.A40873._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_file": "UT4.OTT013.A40873._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "label": "OTT013",
+      "lon": -121.87806235691055,
+      "lat": 54.37327270787869,
+      "component_area_px": 678,
       "component_bbox_px": [
-        1102,
-        1234,
-        860,
-        740
+        434,
+        406,
+        1,
+        678
       ],
       "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
-      "used_replacement": true
+      "used_replacement": false
     },
     {
-      "file": "AIA.836.YAK0063.A19040._25Mar26_Planting Prescription (11x17).pdf",
-      "source_file": "YAK0063_plotMap.pdf",
-      "label": "YAK0063",
-      "lon": -115.62868242451958,
-      "lat": 49.20465809520035,
-      "component_area_px": 34391,
+      "file": "UV6.OTT043.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "source_file": "UV6.OTT043.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
+      "label": "OTT043",
+      "lon": -121.78668223596911,
+      "lat": 54.27043745615704,
+      "component_area_px": 47,
       "component_bbox_px": [
-        1224,
-        923,
-        616,
-        1363
+        637,
+        377,
+        6,
+        27
       ],
       "rendered_size_px": [
-        3064,
+        3060,
         3210
       ],
-      "used_replacement": true
+      "used_replacement": false
+    },
+    {
+      "file": "VL7.GOV532.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "source_file": "VL7.GOV532.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
+      "label": "GOV532",
+      "lon": -122.55884885222686,
+      "lat": 53.50703169911136,
+      "component_area_px": 782,
+      "component_bbox_px": [
+        372,
+        374,
+        782,
+        1
+      ],
+      "rendered_size_px": [
+        3060,
+        3210
+      ],
+      "used_replacement": false
     }
   ]
 }

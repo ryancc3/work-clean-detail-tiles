@@ -1,11 +1,11 @@
 {
-  "source_mode": "non-plot replacements by block code with GEOPDF fallback",
-  "source_pdf_count": 74,
-  "effective_map_count": 74,
-  "replacement_count": 40,
-  "fallback_count": 34,
-  "tile_count": 13725,
-  "overview_label_anchor_count": 74,
+  "source_mode": "plot/source PDFs preferred with extra source directories; non-plot folder available as explicit replacement fallback",
+  "source_pdf_count": 22,
+  "effective_map_count": 22,
+  "replacement_count": 0,
+  "fallback_count": 22,
+  "tile_count": 5308,
+  "overview_label_anchor_count": 22,
   "minzoom": 10,
   "maxzoom": 17,
   "overview_minzoom": 10,
@@ -13,18 +13,18 @@
   "detail_minzoom": 16,
   "detail_maxzoom": 17,
   "bounds": [
-    -115.75681,
-    48.98985,
-    -114.40327,
-    50.55049
+    -122.5688,
+    53.5033,
+    -121.7079,
+    54.4381
   ],
   "center": [
-    -115.08004,
-    49.77017,
+    -122.13835,
+    53.9707,
     15
   ],
   "url_template_after_publish": "https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png",
-  "recommended_cache_busting_url": "https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=nonplot-z15",
-  "generated": "2026-05-26 19:54:04",
-  "notes": "Zooms 10-15 are buffered high-resolution overview tiles with all labels. Zooms 16-17 are detailed field-map tiles. Matching non-plot PDFs replace plot maps."
+  "recommended_cache_busting_url": "https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=canfor-summer-20260705",
+  "generated": "2026-07-05 18:44:01",
+  "notes": "Zooms 10-15 are buffered high-resolution overview tiles with all labels. Zooms 16-17 are detailed field-map tiles. Plot/source PDFs are preferred. Isolated maps render as full unedited GeoPDF detail; overlapping maps render through the cleaned detail path to reduce stacked page furniture."
 }

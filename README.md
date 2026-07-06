@@ -1,4 +1,4 @@
-# Work Non-Plot Hybrid Tiles
+# Canfor Summer Tiles
 
 This folder is ready to publish with GitHub Pages.
 
@@ -11,7 +11,7 @@ https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png
 Recommended cache-busting URL:
 
 ```text
-https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=nonplot-z15
+https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=canfor-summer-20260705
 ```
 
 Use that URL as a custom map source in Gaia.
@@ -21,29 +21,34 @@ Use that URL as a custom map source in Gaia.
 - Transparent PNG web tiles in `tiles/{z}/{x}/{y}.png`
 - Zooms 10 through 17
 - Zooms 10 through 15 use buffered, high-resolution block overview tiles
-  with all 74 labels drawn at every overview zoom.
+  with all 22 labels drawn at every overview zoom.
 - Overview labels are placed globally and rendered with tile buffers, so labels
   and leader arrows can cross internal tile boundaries without being clipped.
 - Overview block shading, halo, and stroke are rendered with tile buffers to
   avoid cut-off polygon edges where sheets overlap or cross tile boundaries.
-- Zooms 16 through 17 use detailed field-map tiles with roads,
-  contours, streams, block outlines/fills, boundary lines, and useful operational labels.
-- Matching non-plot PDFs replace plot-map PDFs by block code; unmatched maps use
-  the original `GEOPDFs` source.
+- Zooms 16 through 17 use detailed field-map tiles.
+- Plot/source PDFs are preferred for the source selection.
+- Isolated maps at detail zooms render as full unedited GeoPDF detail.
+- Overlapping maps at detail zooms render through the cleaned detail path to reduce
+  stacked legends, inset maps, borders, and large note panels.
+- Matching non-plot PDFs are only used when replacement priority is explicitly requested.
+- Extra seasonal source folders are included when supplied during the rebuild.
 
 ## Source Selection
 
-- Effective maps: `74`
-- Non-plot replacements used: `40`
-- Fallback maps used: `34`
+- Effective maps: `22`
+- Source priority: `plot/source PDFs`
+- Non-plot replacements used: `0`
+- Fallback maps used: `22`
 - Unused replacement PDFs are listed in `source_selection_report.json`.
+- Source folders are listed in `source_selection_report.json`.
 
 ## Bounds
 
-- West: `-115.75681`
-- South: `48.98985`
-- East: `-114.40327`
-- North: `50.55049`
+- West: `-122.56880`
+- South: `53.50330`
+- East: `-121.70790`
+- North: `54.43810`
 
 ## GitHub Pages Setup
 
