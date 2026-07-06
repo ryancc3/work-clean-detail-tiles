@@ -1,7 +1,7 @@
 {
   "tilejson": "2.2.0",
   "name": "Canfor Summer Detail",
-  "description": "Buffered overview and clean-detail GeoPDF overlay converted to transparent web PNG tiles.",
+  "description": "Buffered overview plus opaque full-GeoPDF detail tiles for Canfor Summer maps.",
   "version": "2.0.0",
   "scheme": "xyz",
   "tiles": [

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05 18:44:01",
-  "tile_count": 5308,
+  "generated": "2026-07-05 19:16:24",
+  "tile_count": 5364,
   "source_selection": {
     "source_mode": "plot/source PDFs preferred with extra source directories; non-plot folder available as explicit replacement fallback",
     "source_priority": "plot/source PDFs",
@@ -469,1230 +469,140 @@
     "minzoom": 16,
     "maxzoom": 17,
     "tile_size": 256,
-    "tile_write_count": 7377,
-    "overlap_report": {
-      "method": "georeferenced map-extent rectangle intersection",
-      "isolated_count": 6,
-      "overlapping_count": 16,
-      "isolated_labels": [
-        "FLU038",
-        "GOV532",
-        "NMC080",
-        "OLS056",
-        "OTT043",
-        "SEE068"
-      ],
-      "overlapping_labels": [
-        "EAG054",
-        "EAG055",
-        "EAG055A",
-        "EAG056",
-        "EAG057",
-        "EAG059",
-        "EAG060",
-        "EAG061",
-        "EAG062",
-        "EAG063",
-        "EAG065",
-        "LIM022",
-        "LIM119",
-        "LIM120",
-        "OTT013",
-        "OTT017"
-      ],
-      "overlaps": {
-        "FLU038": [],
-        "EAG055": [
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 0.0006615399999998176,
-            "self_overlap_ratio": 0.6152715773808272,
-            "other_overlap_ratio": 0.619158594225111
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 5.4479999999873955e-05,
-            "self_overlap_ratio": 0.05066964285702929,
-            "other_overlap_ratio": 0.05066964285702929
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.0004395199999998357,
-            "self_overlap_ratio": 0.4087797619046386,
-            "other_overlap_ratio": 0.4087797619046386
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0002066399999997964,
-            "self_overlap_ratio": 0.19218749999982454,
-            "other_overlap_ratio": 0.1934016566052269
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.00022970999999986366,
-            "self_overlap_ratio": 0.21364397321417436,
-            "other_overlap_ratio": 0.21364397321417436
-          }
-        ],
-        "EAG055A": [
-          {
-            "label": "EAG055",
-            "intersection_area_degrees": 0.0006615399999998176,
-            "self_overlap_ratio": 0.619158594225111,
-            "other_overlap_ratio": 0.6152715773808272
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 4.249999999996888e-05,
-            "self_overlap_ratio": 0.03977724741444993,
-            "other_overlap_ratio": 0.0395275297618677
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.00025924999999996757,
-            "self_overlap_ratio": 0.24264120922829185,
-            "other_overlap_ratio": 0.24111793154760633
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 3.204000000005387e-05,
-            "self_overlap_ratio": 0.029987364874401214,
-            "other_overlap_ratio": 0.029799107142901123
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 4.5769999999979926e-05,
-            "self_overlap_ratio": 0.042837755627291946,
-            "other_overlap_ratio": 0.04256882440474631
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.0007916999999999861,
-            "self_overlap_ratio": 0.7409799241892356,
-            "other_overlap_ratio": 0.7363281250000403
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0004574699999997961,
-            "self_overlap_ratio": 0.4281622911692617,
-            "other_overlap_ratio": 0.428162291169381
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.0005004999999999707,
-            "self_overlap_ratio": 0.4684355842575435,
-            "other_overlap_ratio": 0.46549479166667307
-          }
-        ],
-        "EAG057": [
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 0.0005525500000000926,
-            "self_overlap_ratio": 0.5139043898810756,
-            "other_overlap_ratio": 0.5139043898809329
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 5.643999999992735e-05,
-            "self_overlap_ratio": 0.05249255952374575,
-            "other_overlap_ratio": 0.05249255952374575
-          }
-        ],
-        "EAG063": [
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 3.712000000000035e-05,
-            "self_overlap_ratio": 0.03460620525060222,
-            "other_overlap_ratio": 0.03452380952381234
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.00018036000000005601,
-            "self_overlap_ratio": 0.16814588305497025,
-            "other_overlap_ratio": 0.16774553571430334
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 9.400000000044293e-06,
-            "self_overlap_ratio": 0.008763424821045005,
-            "other_overlap_ratio": 0.008742559523851352
-          }
-        ],
-        "SEE068": [],
-        "EAG056": [
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 4.249999999996888e-05,
-            "self_overlap_ratio": 0.0395275297618677,
-            "other_overlap_ratio": 0.03977724741444993
-          },
-          {
-            "label": "EAG057",
-            "intersection_area_degrees": 0.0005525500000000926,
-            "self_overlap_ratio": 0.5139043898809329,
-            "other_overlap_ratio": 0.5139043898810756
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.00023939999999991724,
-            "self_overlap_ratio": 0.2226562499998773,
-            "other_overlap_ratio": 0.22265624999993913
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 8.454999999999598e-05,
-            "self_overlap_ratio": 0.07863653273807535,
-            "other_overlap_ratio": 0.07863653273807535
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.0002681399999999041,
-            "self_overlap_ratio": 0.2493861607141453,
-            "other_overlap_ratio": 0.24938616071421454
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 9.009000000003411e-05,
-            "self_overlap_ratio": 0.08378906250001451,
-            "other_overlap_ratio": 0.08378906250003779
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.00028800000000002185,
-            "self_overlap_ratio": 0.26785714285710815,
-            "other_overlap_ratio": 0.26785714285718254
-          }
-        ],
-        "EAG060": [
-          {
-            "label": "EAG055",
-            "intersection_area_degrees": 5.4479999999873955e-05,
-            "self_overlap_ratio": 0.05066964285702929,
-            "other_overlap_ratio": 0.05066964285702929
-          },
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 0.00025924999999996757,
-            "self_overlap_ratio": 0.24111793154760633,
-            "other_overlap_ratio": 0.24264120922829185
-          },
-          {
-            "label": "EAG063",
-            "intersection_area_degrees": 3.712000000000035e-05,
-            "self_overlap_ratio": 0.03452380952381234,
-            "other_overlap_ratio": 0.03460620525060222
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 0.00023939999999991724,
-            "self_overlap_ratio": 0.22265624999993913,
-            "other_overlap_ratio": 0.2226562499998773
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.0006642000000000759,
-            "self_overlap_ratio": 0.6177455357144009,
-            "other_overlap_ratio": 0.6177455357142294
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.0006091600000000156,
-            "self_overlap_ratio": 0.566555059523865,
-            "other_overlap_ratio": 0.566555059523865
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.0004657399999999288,
-            "self_overlap_ratio": 0.4331659226190127,
-            "other_overlap_ratio": 0.4331659226190127
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0006177099999997469,
-            "self_overlap_ratio": 0.5745070684521871,
-            "other_overlap_ratio": 0.578136552950462
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.0007479999999999369,
-            "self_overlap_ratio": 0.6956845238095154,
-            "other_overlap_ratio": 0.6956845238095154
-          }
-        ],
-        "EAG061": [
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 3.204000000005387e-05,
-            "self_overlap_ratio": 0.029799107142901123,
-            "other_overlap_ratio": 0.029987364874401214
-          },
-          {
-            "label": "EAG063",
-            "intersection_area_degrees": 0.00018036000000005601,
-            "self_overlap_ratio": 0.16774553571430334,
-            "other_overlap_ratio": 0.16814588305497025
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 8.454999999999598e-05,
-            "self_overlap_ratio": 0.07863653273807535,
-            "other_overlap_ratio": 0.07863653273807535
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.0006642000000000759,
-            "self_overlap_ratio": 0.6177455357142294,
-            "other_overlap_ratio": 0.6177455357144009
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.0006364600000001619,
-            "self_overlap_ratio": 0.5919456845238386,
-            "other_overlap_ratio": 0.5919456845240029
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.00025899999999996515,
-            "self_overlap_ratio": 0.24088541666658478,
-            "other_overlap_ratio": 0.24088541666665167
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.00048215999999984586,
-            "self_overlap_ratio": 0.4484374999997645,
-            "other_overlap_ratio": 0.4512705320791631
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.0004317899999999406,
-            "self_overlap_ratio": 0.4015904017855766,
-            "other_overlap_ratio": 0.4015904017856881
-          }
-        ],
-        "EAG062": [
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 4.5769999999979926e-05,
-            "self_overlap_ratio": 0.04256882440474631,
-            "other_overlap_ratio": 0.042837755627291946
-          },
-          {
-            "label": "EAG057",
-            "intersection_area_degrees": 5.643999999992735e-05,
-            "self_overlap_ratio": 0.05249255952374575,
-            "other_overlap_ratio": 0.05249255952374575
-          },
-          {
-            "label": "EAG063",
-            "intersection_area_degrees": 9.400000000044293e-06,
-            "self_overlap_ratio": 0.008742559523851352,
-            "other_overlap_ratio": 0.008763424821045005
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 0.0002681399999999041,
-            "self_overlap_ratio": 0.24938616071421454,
-            "other_overlap_ratio": 0.2493861607141453
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.0006091600000000156,
-            "self_overlap_ratio": 0.566555059523865,
-            "other_overlap_ratio": 0.566555059523865
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.0006364600000001619,
-            "self_overlap_ratio": 0.5919456845240029,
-            "other_overlap_ratio": 0.5919456845238386
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.00017891999999997604,
-            "self_overlap_ratio": 0.16640624999998974,
-            "other_overlap_ratio": 0.16640624999998974
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0002753099999998927,
-            "self_overlap_ratio": 0.2560546874999187,
-            "other_overlap_ratio": 0.25767232907480025
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.00036749999999999516,
-            "self_overlap_ratio": 0.3417968750000202,
-            "other_overlap_ratio": 0.3417968750000202
-          }
-        ],
-        "EAG059": [
-          {
-            "label": "EAG055",
-            "intersection_area_degrees": 0.0004395199999998357,
-            "self_overlap_ratio": 0.4087797619046386,
-            "other_overlap_ratio": 0.4087797619046386
-          },
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 0.0007916999999999861,
-            "self_overlap_ratio": 0.7363281250000403,
-            "other_overlap_ratio": 0.7409799241892356
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 9.009000000003411e-05,
-            "self_overlap_ratio": 0.08378906250003779,
-            "other_overlap_ratio": 0.08378906250001451
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.0004657399999999288,
-            "self_overlap_ratio": 0.4331659226190127,
-            "other_overlap_ratio": 0.4331659226190127
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.00025899999999996515,
-            "self_overlap_ratio": 0.24088541666665167,
-            "other_overlap_ratio": 0.24088541666658478
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.00017891999999997604,
-            "self_overlap_ratio": 0.16640624999998974,
-            "other_overlap_ratio": 0.16640624999998974
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0006728399999995979,
-            "self_overlap_ratio": 0.6257812499996713,
-            "other_overlap_ratio": 0.6297346623611659
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.0007288499999999253,
-            "self_overlap_ratio": 0.677873883928551,
-            "other_overlap_ratio": 0.677873883928551
-          }
-        ],
-        "EAG065": [
-          {
-            "label": "EAG055",
-            "intersection_area_degrees": 0.0002066399999997964,
-            "self_overlap_ratio": 0.1934016566052269,
-            "other_overlap_ratio": 0.19218749999982454
-          },
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 0.0004574699999997961,
-            "self_overlap_ratio": 0.428162291169381,
-            "other_overlap_ratio": 0.4281622911692617
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.0006177099999997469,
-            "self_overlap_ratio": 0.578136552950462,
-            "other_overlap_ratio": 0.5745070684521871
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.00048215999999984586,
-            "self_overlap_ratio": 0.4512705320791631,
-            "other_overlap_ratio": 0.4484374999997645
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.0002753099999998927,
-            "self_overlap_ratio": 0.25767232907480025,
-            "other_overlap_ratio": 0.2560546874999187
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.0006728399999995979,
-            "self_overlap_ratio": 0.6297346623611659,
-            "other_overlap_ratio": 0.6257812499996713
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.0006504299999996626,
-            "self_overlap_ratio": 0.6087603537833741,
-            "other_overlap_ratio": 0.6049386160711585
-          }
-        ],
-        "NMC080": [],
-        "EAG054": [
-          {
-            "label": "EAG055",
-            "intersection_area_degrees": 0.00022970999999986366,
-            "self_overlap_ratio": 0.21364397321417436,
-            "other_overlap_ratio": 0.21364397321417436
-          },
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 0.0005004999999999707,
-            "self_overlap_ratio": 0.46549479166667307,
-            "other_overlap_ratio": 0.4684355842575435
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 0.00028800000000002185,
-            "self_overlap_ratio": 0.26785714285718254,
-            "other_overlap_ratio": 0.26785714285710815
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.0007479999999999369,
-            "self_overlap_ratio": 0.6956845238095154,
-            "other_overlap_ratio": 0.6956845238095154
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.0004317899999999406,
-            "self_overlap_ratio": 0.4015904017856881,
-            "other_overlap_ratio": 0.4015904017855766
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.00036749999999999516,
-            "self_overlap_ratio": 0.3417968750000202,
-            "other_overlap_ratio": 0.3417968750000202
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.0007288499999999253,
-            "self_overlap_ratio": 0.677873883928551,
-            "other_overlap_ratio": 0.677873883928551
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0006504299999996626,
-            "self_overlap_ratio": 0.6049386160711585,
-            "other_overlap_ratio": 0.6087603537833741
-          }
-        ],
-        "LIM022": [
-          {
-            "label": "LIM120",
-            "intersection_area_degrees": 0.0003066000000000431,
-            "self_overlap_ratio": 0.2851562499999815,
-            "other_overlap_ratio": 0.12673611111111463
-          }
-        ],
-        "LIM119": [
-          {
-            "label": "LIM120",
-            "intersection_area_degrees": 0.0006329399999999871,
-            "self_overlap_ratio": 0.5886718750002297,
-            "other_overlap_ratio": 0.26163194444440957
-          }
-        ],
-        "LIM120": [
-          {
-            "label": "LIM022",
-            "intersection_area_degrees": 0.0003066000000000431,
-            "self_overlap_ratio": 0.12673611111111463,
-            "other_overlap_ratio": 0.2851562499999815
-          },
-          {
-            "label": "LIM119",
-            "intersection_area_degrees": 0.0006329399999999871,
-            "self_overlap_ratio": 0.26163194444440957,
-            "other_overlap_ratio": 0.5886718750002297
-          }
-        ],
-        "OLS056": [],
-        "OTT017": [
-          {
-            "label": "OTT013",
-            "intersection_area_degrees": 2.4400000000809975e-06,
-            "self_overlap_ratio": 0.0022444830790630975,
-            "other_overlap_ratio": 0.002244483079063851
-          }
-        ],
-        "OTT013": [
-          {
-            "label": "OTT017",
-            "intersection_area_degrees": 2.4400000000809975e-06,
-            "self_overlap_ratio": 0.002244483079063851,
-            "other_overlap_ratio": 0.0022444830790630975
-          }
-        ],
-        "OTT043": [],
-        "GOV532": []
-      }
-    },
-    "elapsed_seconds": 347.6,
+    "rendering": "opaque full source GeoPDF rasters; white/background pixels are preserved",
+    "tile_write_count": 7497,
+    "elapsed_seconds": 343.4,
     "maps": {
       "FLU038": {
         "source_file": "10R.FLU038_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
         "selected_file": "10R.FLU038_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
-        "detail_mode": "full_unedited_geopdf",
-        "overlap_count": 0,
-        "overlaps": [],
+        "detail_mode": "opaque_full_geopdf",
         "tiles_written_or_updated": 328
       },
       "EAG055": {
         "source_file": "10W.EAG055.TFL30._09Jun26_Planting Prescription (11x17).pdf",
         "selected_file": "10W.EAG055.TFL30._09Jun26_Planting Prescription (11x17).pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 5,
-        "overlaps": [
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 0.0006615399999998176,
-            "self_overlap_ratio": 0.6152715773808272,
-            "other_overlap_ratio": 0.619158594225111
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 5.4479999999873955e-05,
-            "self_overlap_ratio": 0.05066964285702929,
-            "other_overlap_ratio": 0.05066964285702929
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.0004395199999998357,
-            "self_overlap_ratio": 0.4087797619046386,
-            "other_overlap_ratio": 0.4087797619046386
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0002066399999997964,
-            "self_overlap_ratio": 0.19218749999982454,
-            "other_overlap_ratio": 0.1934016566052269
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.00022970999999986366,
-            "self_overlap_ratio": 0.21364397321417436,
-            "other_overlap_ratio": 0.21364397321417436
-          }
-        ],
-        "tiles_written_or_updated": 320
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 329
       },
       "EAG055A": {
         "source_file": "10W.EAG055A.TFL30._08Jun26_Planting Prescription (11x17).pdf",
         "selected_file": "10W.EAG055A.TFL30._08Jun26_Planting Prescription (11x17).pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 8,
-        "overlaps": [
-          {
-            "label": "EAG055",
-            "intersection_area_degrees": 0.0006615399999998176,
-            "self_overlap_ratio": 0.619158594225111,
-            "other_overlap_ratio": 0.6152715773808272
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 4.249999999996888e-05,
-            "self_overlap_ratio": 0.03977724741444993,
-            "other_overlap_ratio": 0.0395275297618677
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.00025924999999996757,
-            "self_overlap_ratio": 0.24264120922829185,
-            "other_overlap_ratio": 0.24111793154760633
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 3.204000000005387e-05,
-            "self_overlap_ratio": 0.029987364874401214,
-            "other_overlap_ratio": 0.029799107142901123
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 4.5769999999979926e-05,
-            "self_overlap_ratio": 0.042837755627291946,
-            "other_overlap_ratio": 0.04256882440474631
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.0007916999999999861,
-            "self_overlap_ratio": 0.7409799241892356,
-            "other_overlap_ratio": 0.7363281250000403
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0004574699999997961,
-            "self_overlap_ratio": 0.4281622911692617,
-            "other_overlap_ratio": 0.428162291169381
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.0005004999999999707,
-            "self_overlap_ratio": 0.4684355842575435,
-            "other_overlap_ratio": 0.46549479166667307
-          }
-        ],
-        "tiles_written_or_updated": 320
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 324
       },
       "EAG057": {
         "source_file": "10W.EAG057.TFL30._09Jun26_Planting Prescription (11x17).pdf",
         "selected_file": "10W.EAG057.TFL30._09Jun26_Planting Prescription (11x17).pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 2,
-        "overlaps": [
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 0.0005525500000000926,
-            "self_overlap_ratio": 0.5139043898810756,
-            "other_overlap_ratio": 0.5139043898809329
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 5.643999999992735e-05,
-            "self_overlap_ratio": 0.05249255952374575,
-            "other_overlap_ratio": 0.05249255952374575
-          }
-        ],
-        "tiles_written_or_updated": 312
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 317
       },
       "EAG063": {
         "source_file": "10W.EAG063.TFL30._09Jun26_Planting Prescription (11x17).pdf",
         "selected_file": "10W.EAG063.TFL30._09Jun26_Planting Prescription (11x17).pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 3,
-        "overlaps": [
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 3.712000000000035e-05,
-            "self_overlap_ratio": 0.03460620525060222,
-            "other_overlap_ratio": 0.03452380952381234
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.00018036000000005601,
-            "self_overlap_ratio": 0.16814588305497025,
-            "other_overlap_ratio": 0.16774553571430334
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 9.400000000044293e-06,
-            "self_overlap_ratio": 0.008763424821045005,
-            "other_overlap_ratio": 0.008742559523851352
-          }
-        ],
-        "tiles_written_or_updated": 316
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 324
       },
       "SEE068": {
         "source_file": "12Q.SEE068_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
         "selected_file": "12Q.SEE068_FSW.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
-        "detail_mode": "full_unedited_geopdf",
-        "overlap_count": 0,
-        "overlaps": [],
+        "detail_mode": "opaque_full_geopdf",
         "tiles_written_or_updated": 325
       },
       "EAG056": {
         "source_file": "19B.EAG056.TFL30._09Jun26_Planting Prescription (11x17).pdf",
         "selected_file": "19B.EAG056.TFL30._09Jun26_Planting Prescription (11x17).pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 7,
-        "overlaps": [
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 4.249999999996888e-05,
-            "self_overlap_ratio": 0.0395275297618677,
-            "other_overlap_ratio": 0.03977724741444993
-          },
-          {
-            "label": "EAG057",
-            "intersection_area_degrees": 0.0005525500000000926,
-            "self_overlap_ratio": 0.5139043898809329,
-            "other_overlap_ratio": 0.5139043898810756
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.00023939999999991724,
-            "self_overlap_ratio": 0.2226562499998773,
-            "other_overlap_ratio": 0.22265624999993913
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 8.454999999999598e-05,
-            "self_overlap_ratio": 0.07863653273807535,
-            "other_overlap_ratio": 0.07863653273807535
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.0002681399999999041,
-            "self_overlap_ratio": 0.2493861607141453,
-            "other_overlap_ratio": 0.24938616071421454
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 9.009000000003411e-05,
-            "self_overlap_ratio": 0.08378906250001451,
-            "other_overlap_ratio": 0.08378906250003779
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.00028800000000002185,
-            "self_overlap_ratio": 0.26785714285710815,
-            "other_overlap_ratio": 0.26785714285718254
-          }
-        ],
-        "tiles_written_or_updated": 314
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 320
       },
       "EAG060": {
         "source_file": "19B.EAG060.TFL30._08Jun26_Planting Prescription (11x17).pdf",
         "selected_file": "19B.EAG060.TFL30._08Jun26_Planting Prescription (11x17).pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 9,
-        "overlaps": [
-          {
-            "label": "EAG055",
-            "intersection_area_degrees": 5.4479999999873955e-05,
-            "self_overlap_ratio": 0.05066964285702929,
-            "other_overlap_ratio": 0.05066964285702929
-          },
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 0.00025924999999996757,
-            "self_overlap_ratio": 0.24111793154760633,
-            "other_overlap_ratio": 0.24264120922829185
-          },
-          {
-            "label": "EAG063",
-            "intersection_area_degrees": 3.712000000000035e-05,
-            "self_overlap_ratio": 0.03452380952381234,
-            "other_overlap_ratio": 0.03460620525060222
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 0.00023939999999991724,
-            "self_overlap_ratio": 0.22265624999993913,
-            "other_overlap_ratio": 0.2226562499998773
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.0006642000000000759,
-            "self_overlap_ratio": 0.6177455357144009,
-            "other_overlap_ratio": 0.6177455357142294
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.0006091600000000156,
-            "self_overlap_ratio": 0.566555059523865,
-            "other_overlap_ratio": 0.566555059523865
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.0004657399999999288,
-            "self_overlap_ratio": 0.4331659226190127,
-            "other_overlap_ratio": 0.4331659226190127
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0006177099999997469,
-            "self_overlap_ratio": 0.5745070684521871,
-            "other_overlap_ratio": 0.578136552950462
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.0007479999999999369,
-            "self_overlap_ratio": 0.6956845238095154,
-            "other_overlap_ratio": 0.6956845238095154
-          }
-        ],
-        "tiles_written_or_updated": 315
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 321
       },
       "EAG061": {
         "source_file": "19B.EAG061.TFL30._08Jun26_Planting Prescription (11x17).pdf",
         "selected_file": "19B.EAG061.TFL30._08Jun26_Planting Prescription (11x17).pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 8,
-        "overlaps": [
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 3.204000000005387e-05,
-            "self_overlap_ratio": 0.029799107142901123,
-            "other_overlap_ratio": 0.029987364874401214
-          },
-          {
-            "label": "EAG063",
-            "intersection_area_degrees": 0.00018036000000005601,
-            "self_overlap_ratio": 0.16774553571430334,
-            "other_overlap_ratio": 0.16814588305497025
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 8.454999999999598e-05,
-            "self_overlap_ratio": 0.07863653273807535,
-            "other_overlap_ratio": 0.07863653273807535
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.0006642000000000759,
-            "self_overlap_ratio": 0.6177455357142294,
-            "other_overlap_ratio": 0.6177455357144009
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.0006364600000001619,
-            "self_overlap_ratio": 0.5919456845238386,
-            "other_overlap_ratio": 0.5919456845240029
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.00025899999999996515,
-            "self_overlap_ratio": 0.24088541666658478,
-            "other_overlap_ratio": 0.24088541666665167
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.00048215999999984586,
-            "self_overlap_ratio": 0.4484374999997645,
-            "other_overlap_ratio": 0.4512705320791631
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.0004317899999999406,
-            "self_overlap_ratio": 0.4015904017855766,
-            "other_overlap_ratio": 0.4015904017856881
-          }
-        ],
-        "tiles_written_or_updated": 316
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 320
       },
       "EAG062": {
         "source_file": "19B.EAG062.TFL30._09Jun26_Planting Prescription (11x17).pdf",
         "selected_file": "19B.EAG062.TFL30._09Jun26_Planting Prescription (11x17).pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 9,
-        "overlaps": [
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 4.5769999999979926e-05,
-            "self_overlap_ratio": 0.04256882440474631,
-            "other_overlap_ratio": 0.042837755627291946
-          },
-          {
-            "label": "EAG057",
-            "intersection_area_degrees": 5.643999999992735e-05,
-            "self_overlap_ratio": 0.05249255952374575,
-            "other_overlap_ratio": 0.05249255952374575
-          },
-          {
-            "label": "EAG063",
-            "intersection_area_degrees": 9.400000000044293e-06,
-            "self_overlap_ratio": 0.008742559523851352,
-            "other_overlap_ratio": 0.008763424821045005
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 0.0002681399999999041,
-            "self_overlap_ratio": 0.24938616071421454,
-            "other_overlap_ratio": 0.2493861607141453
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.0006091600000000156,
-            "self_overlap_ratio": 0.566555059523865,
-            "other_overlap_ratio": 0.566555059523865
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.0006364600000001619,
-            "self_overlap_ratio": 0.5919456845240029,
-            "other_overlap_ratio": 0.5919456845238386
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.00017891999999997604,
-            "self_overlap_ratio": 0.16640624999998974,
-            "other_overlap_ratio": 0.16640624999998974
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0002753099999998927,
-            "self_overlap_ratio": 0.2560546874999187,
-            "other_overlap_ratio": 0.25767232907480025
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.00036749999999999516,
-            "self_overlap_ratio": 0.3417968750000202,
-            "other_overlap_ratio": 0.3417968750000202
-          }
-        ],
-        "tiles_written_or_updated": 312
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 322
       },
       "EAG059": {
         "source_file": "19C.EAG059.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
         "selected_file": "19C.EAG059.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 8,
-        "overlaps": [
-          {
-            "label": "EAG055",
-            "intersection_area_degrees": 0.0004395199999998357,
-            "self_overlap_ratio": 0.4087797619046386,
-            "other_overlap_ratio": 0.4087797619046386
-          },
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 0.0007916999999999861,
-            "self_overlap_ratio": 0.7363281250000403,
-            "other_overlap_ratio": 0.7409799241892356
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 9.009000000003411e-05,
-            "self_overlap_ratio": 0.08378906250003779,
-            "other_overlap_ratio": 0.08378906250001451
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.0004657399999999288,
-            "self_overlap_ratio": 0.4331659226190127,
-            "other_overlap_ratio": 0.4331659226190127
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.00025899999999996515,
-            "self_overlap_ratio": 0.24088541666665167,
-            "other_overlap_ratio": 0.24088541666658478
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.00017891999999997604,
-            "self_overlap_ratio": 0.16640624999998974,
-            "other_overlap_ratio": 0.16640624999998974
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0006728399999995979,
-            "self_overlap_ratio": 0.6257812499996713,
-            "other_overlap_ratio": 0.6297346623611659
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.0007288499999999253,
-            "self_overlap_ratio": 0.677873883928551,
-            "other_overlap_ratio": 0.677873883928551
-          }
-        ],
-        "tiles_written_or_updated": 316
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 326
       },
       "EAG065": {
         "source_file": "19C.EAG065.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
         "selected_file": "19C.EAG065.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 7,
-        "overlaps": [
-          {
-            "label": "EAG055",
-            "intersection_area_degrees": 0.0002066399999997964,
-            "self_overlap_ratio": 0.1934016566052269,
-            "other_overlap_ratio": 0.19218749999982454
-          },
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 0.0004574699999997961,
-            "self_overlap_ratio": 0.428162291169381,
-            "other_overlap_ratio": 0.4281622911692617
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.0006177099999997469,
-            "self_overlap_ratio": 0.578136552950462,
-            "other_overlap_ratio": 0.5745070684521871
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.00048215999999984586,
-            "self_overlap_ratio": 0.4512705320791631,
-            "other_overlap_ratio": 0.4484374999997645
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.0002753099999998927,
-            "self_overlap_ratio": 0.25767232907480025,
-            "other_overlap_ratio": 0.2560546874999187
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.0006728399999995979,
-            "self_overlap_ratio": 0.6297346623611659,
-            "other_overlap_ratio": 0.6257812499996713
-          },
-          {
-            "label": "EAG054",
-            "intersection_area_degrees": 0.0006504299999996626,
-            "self_overlap_ratio": 0.6087603537833741,
-            "other_overlap_ratio": 0.6049386160711585
-          }
-        ],
-        "tiles_written_or_updated": 318
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 326
       },
       "NMC080": {
         "source_file": "19T.NMC080_IU.TFL30._08Jun26_Planting Prescription (11x17)(2)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
         "selected_file": "19T.NMC080_IU.TFL30._08Jun26_Planting Prescription (11x17)(2)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
-        "detail_mode": "full_unedited_geopdf",
-        "overlap_count": 0,
-        "overlaps": [],
+        "detail_mode": "opaque_full_geopdf",
         "tiles_written_or_updated": 320
       },
       "EAG054": {
         "source_file": "2I.EAG054.TFL30._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
         "selected_file": "2I.EAG054.TFL30._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 8,
-        "overlaps": [
-          {
-            "label": "EAG055",
-            "intersection_area_degrees": 0.00022970999999986366,
-            "self_overlap_ratio": 0.21364397321417436,
-            "other_overlap_ratio": 0.21364397321417436
-          },
-          {
-            "label": "EAG055A",
-            "intersection_area_degrees": 0.0005004999999999707,
-            "self_overlap_ratio": 0.46549479166667307,
-            "other_overlap_ratio": 0.4684355842575435
-          },
-          {
-            "label": "EAG056",
-            "intersection_area_degrees": 0.00028800000000002185,
-            "self_overlap_ratio": 0.26785714285718254,
-            "other_overlap_ratio": 0.26785714285710815
-          },
-          {
-            "label": "EAG060",
-            "intersection_area_degrees": 0.0007479999999999369,
-            "self_overlap_ratio": 0.6956845238095154,
-            "other_overlap_ratio": 0.6956845238095154
-          },
-          {
-            "label": "EAG061",
-            "intersection_area_degrees": 0.0004317899999999406,
-            "self_overlap_ratio": 0.4015904017856881,
-            "other_overlap_ratio": 0.4015904017855766
-          },
-          {
-            "label": "EAG062",
-            "intersection_area_degrees": 0.00036749999999999516,
-            "self_overlap_ratio": 0.3417968750000202,
-            "other_overlap_ratio": 0.3417968750000202
-          },
-          {
-            "label": "EAG059",
-            "intersection_area_degrees": 0.0007288499999999253,
-            "self_overlap_ratio": 0.677873883928551,
-            "other_overlap_ratio": 0.677873883928551
-          },
-          {
-            "label": "EAG065",
-            "intersection_area_degrees": 0.0006504299999996626,
-            "self_overlap_ratio": 0.6049386160711585,
-            "other_overlap_ratio": 0.6087603537833741
-          }
-        ],
-        "tiles_written_or_updated": 318
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 325
       },
       "LIM022": {
         "source_file": "5AI.LIM022.TFL30._08Jun26_Planting Prescription (11x17)(4)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
         "selected_file": "5AI.LIM022.TFL30._08Jun26_Planting Prescription (11x17)(4)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 1,
-        "overlaps": [
-          {
-            "label": "LIM120",
-            "intersection_area_degrees": 0.0003066000000000431,
-            "self_overlap_ratio": 0.2851562499999815,
-            "other_overlap_ratio": 0.12673611111111463
-          }
-        ],
-        "tiles_written_or_updated": 319
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 325
       },
       "LIM119": {
         "source_file": "6AA.LIM119.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
         "selected_file": "6AA.LIM119.TFL30._08Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 1,
-        "overlaps": [
-          {
-            "label": "LIM120",
-            "intersection_area_degrees": 0.0006329399999999871,
-            "self_overlap_ratio": 0.5886718750002297,
-            "other_overlap_ratio": 0.26163194444440957
-          }
-        ],
-        "tiles_written_or_updated": 315
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 323
       },
       "LIM120": {
         "source_file": "6AA.LIM120.TFL30._09Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
         "selected_file": "6AA.LIM120.TFL30._09Jun26_Planting Prescription (11x17)(3)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 2,
-        "overlaps": [
-          {
-            "label": "LIM022",
-            "intersection_area_degrees": 0.0003066000000000431,
-            "self_overlap_ratio": 0.12673611111111463,
-            "other_overlap_ratio": 0.2851562499999815
-          },
-          {
-            "label": "LIM119",
-            "intersection_area_degrees": 0.0006329399999999871,
-            "self_overlap_ratio": 0.26163194444440957,
-            "other_overlap_ratio": 0.5886718750002297
-          }
-        ],
-        "tiles_written_or_updated": 678
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 692
       },
       "OLS056": {
         "source_file": "8AH.OLS056.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
         "selected_file": "8AH.OLS056.TFL30._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
-        "detail_mode": "full_unedited_geopdf",
-        "overlap_count": 0,
-        "overlaps": [],
+        "detail_mode": "opaque_full_geopdf",
         "tiles_written_or_updated": 327
       },
       "OTT017": {
         "source_file": "US9_OTT017_1_plot_per_2ha_numbered_REVISED.pdf",
         "selected_file": "US9_OTT017_1_plot_per_2ha_numbered_REVISED.pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 1,
-        "overlaps": [
-          {
-            "label": "OTT013",
-            "intersection_area_degrees": 2.4400000000809975e-06,
-            "self_overlap_ratio": 0.0022444830790630975,
-            "other_overlap_ratio": 0.002244483079063851
-          }
-        ],
-        "tiles_written_or_updated": 321
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 327
       },
       "OTT013": {
         "source_file": "UT4.OTT013.A40873._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
         "selected_file": "UT4.OTT013.A40873._09Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
-        "detail_mode": "cleaned_overlap_geopdf",
-        "overlap_count": 1,
-        "overlaps": [
-          {
-            "label": "OTT017",
-            "intersection_area_degrees": 2.4400000000809975e-06,
-            "self_overlap_ratio": 0.002244483079063851,
-            "other_overlap_ratio": 0.0022444830790630975
-          }
-        ],
-        "tiles_written_or_updated": 325
+        "detail_mode": "opaque_full_geopdf",
+        "tiles_written_or_updated": 334
       },
       "OTT043": {
         "source_file": "UV6.OTT043.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
         "selected_file": "UV6.OTT043.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_MIN5_AvenzaReady.pdf",
-        "detail_mode": "full_unedited_geopdf",
-        "overlap_count": 0,
-        "overlaps": [],
+        "detail_mode": "opaque_full_geopdf",
         "tiles_written_or_updated": 329
       },
       "GOV532": {
         "source_file": "VL7.GOV532.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
         "selected_file": "VL7.GOV532.A40873._08Jun26_Planting Prescription (11x17)(1)_EVEN_PLOTS_1per2ha_AvenzaReady.pdf",
-        "detail_mode": "full_unedited_geopdf",
-        "overlap_count": 0,
-        "overlaps": [],
+        "detail_mode": "opaque_full_geopdf",
         "tiles_written_or_updated": 313
       }
     }

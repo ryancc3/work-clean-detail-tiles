@@ -11,14 +11,14 @@ https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png
 Recommended cache-busting URL:
 
 ```text
-https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=canfor-summer-20260705
+https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=canfor-summer-fullpdf
 ```
 
 Use that URL as a custom map source in Gaia.
 
 ## What This Contains
 
-- Transparent PNG web tiles in `tiles/{z}/{x}/{y}.png`
+- PNG web tiles in `tiles/{z}/{x}/{y}.png`
 - Zooms 10 through 17
 - Zooms 10 through 15 use buffered, high-resolution block overview tiles
   with all 22 labels drawn at every overview zoom.
@@ -26,11 +26,10 @@ Use that URL as a custom map source in Gaia.
   and leader arrows can cross internal tile boundaries without being clipped.
 - Overview block shading, halo, and stroke are rendered with tile buffers to
   avoid cut-off polygon edges where sheets overlap or cross tile boundaries.
-- Zooms 16 through 17 use detailed field-map tiles.
+- Zooms 16 through 17 use opaque full source GeoPDF detail tiles.
 - Plot/source PDFs are preferred for the source selection.
-- Isolated maps at detail zooms render as full unedited GeoPDF detail.
-- Overlapping maps at detail zooms render through the cleaned detail path to reduce
-  stacked legends, inset maps, borders, and large note panels.
+- White/background pixels are preserved in detail tiles, so each PDF footprint can
+  cover the base map at z16-z17.
 - Matching non-plot PDFs are only used when replacement priority is explicitly requested.
 - Extra seasonal source folders are included when supplied during the rebuild.
 

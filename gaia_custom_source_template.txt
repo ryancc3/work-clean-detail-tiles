@@ -4,14 +4,14 @@ Name:
 Canfor Summer
 
 URL:
-https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=canfor-summer-20260705
+https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=canfor-summer-fullpdf
 
 Zooms:
 10-17
 
 Notes:
 - z10-z15: buffered overview labels and block polygons
-- z16-z17: full detail for isolated maps, cleaned detail for overlapping maps
+- z16-z17: opaque full source GeoPDF detail
 - Plot/source PDFs are preferred
 - Matching non-plot PDFs are only used when replacement priority is explicitly requested
 - Extra seasonal source folders are included when supplied

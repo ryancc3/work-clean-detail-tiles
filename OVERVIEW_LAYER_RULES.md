@@ -8,7 +8,7 @@ These are the rules used for the current GitHub Pages Gaia custom map layer.
 - Source PDFs: `Canfor Summer maps`
 - Web output: `Gaia_MBTiles/github_pages_site`
 - Published URL template: `https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png`
-- Recommended cache-busting URL: `https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=canfor-summer-20260705`
+- Recommended cache-busting URL: `https://ryancc3.github.io/work-clean-detail-tiles/tiles/{z}/{x}/{y}.png?v=canfor-summer-fullpdf`
 
 The current published layer is Canfor Summer only. The previous original
 `GEOPDFs` maps are not included in this tile set.
@@ -24,7 +24,7 @@ Current source-selection target:
 ## Zoom Behavior
 
 - Web zooms `10-15`: simplified high-resolution overview tiles.
-- Web zooms `16-17`: detailed field-map tiles.
+- Web zooms `16-17`: opaque full source GeoPDF detail tiles.
 
 The overview is intentionally a different cartographic style than the detailed
 field maps so the block locations stay readable when zoomed out.
@@ -53,29 +53,17 @@ Expected overview label counts:
 
 ## Detail Rules
 
-For web zooms `16-17`, use plot/source PDFs as the priority source.
+For web zooms `16-17`, render every Canfor Summer map directly from the selected
+source GeoPDF.
 
-If a map does not overlap any other Canfor Summer map:
-
-- Render the full unedited GeoPDF detail.
-- Keep the original map content, including page furniture and map-specific notes.
-
-If a map overlaps at least one other Canfor Summer map:
-
-- Render through the cleaned detail path.
-- Keep roads, contours, streams, boundaries, operational labels, and block
-  features.
-- Remove or hide large clutter elements that would stack badly with neighboring
-  maps, including legends, inset map panels, large notes, page borders, and
-  similar page furniture.
-
-Current detail classification:
-
-- `6` full unedited isolated maps
-- `16` cleaned overlapping maps
-
-The detailed per-map classification is written to
-`detail_generation_summary.json`.
+- Use plot/source PDFs as the priority source.
+- Do not use the cleaned-detail path.
+- Do not remove block insets, legends, page borders, notes, or other PDF
+  furniture.
+- Preserve white/background pixels, so each PDF footprint is opaque and can cover
+  the BRMB/base map beneath it.
+- Record every detail map as `opaque_full_geopdf` in
+  `detail_generation_summary.json`.
 
 ## Verification Targets
 
@@ -84,9 +72,9 @@ The detailed per-map classification is written to
 - `22` effective maps
 - `0` replacements
 - `22` fallbacks
-- `5308` total tile PNG files
 - overview zooms `10-15`
 - detail zooms `16-17`
+- cache-busting URL ending in `?v=canfor-summer-fullpdf`
 
 `source_selection_report.json` should report:
 
